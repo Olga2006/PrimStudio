@@ -1,0 +1,177 @@
+<footer>
+
+
+<div id="blokblack">
+<div id="blok5">
+<a id="blok" href="http://primstudio.net/cannes-architekt-wnetrz.shtml#contact">  
+<div id="blok0">
+KONTAKT Z NAMI
+</div>
+</a>
+
+<div id="blok5a"><br>
+<img src="http://primstudio.net/images/primstudio-architecte-interieur.png" alt="PrimStudio projektowanie wnętrz" 
+title="PrimStudio projektowanie wnętrz" style="position: absolute; left:0px; top:0px; width:312px; height: 113px;"/>
+ <br><br><br><br><br><br><br>
+<p id="secondf"> 26, ul. Charles de Mouchy<br>
+ 06210 Mandelieu-la-Napoule<br>
+  Francja<br>
+Tel. +33630131343<br>
+Email: contact@primstudio.net<br>
+<br></p>
+</div>
+
+<div id="blok5b">
+<br><br><br>
+<p id="firstf">
+PRZEGLAD </p><br>
+
+<a id= "fo" href="http://primstudio.net/projektowanie-wnetrz/style.shtml">Przegląd stylów</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/etapy.shtml">Etapy projektowania wnętrz</a><br>
+<a id="fo" href="http://primstudio.net/nicea-architektura-wnetrz.shtml">Misja projektanta</a><br>
+</div>
+
+<div id="blok5c">
+<br><br><br><br><br>
+<a id="fo" href="http://primstudio.net/nicea-architektura-wnetrz.shtml">Misja</a><br>
+<a id="fo" href="http://primstudio.net/projektant-wnetrz-francja.shtml">Dlaczego PrimStudio</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/etapy.shtml">Etapy projektu</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/style.shtml">Główne style</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/cena.shtml">Cena</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/portfolio.shtml">Portfolio</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/nowosci.shtml">Nowości</a><br>
+<a id="fo" href="http://primstudio.net/cannes-architekt-wnetrz.shtml">Kontakt</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/kariera.shtml">Kariera</a>
+</div>
+
+<div id="blok5c">
+<br><br><br>
+<p id="firstf">NAWIGACJE</p> <br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz-lazurowe-wybrzeze.shtml">Główna</a><br>
+<a id="fo" href="http://primstudio.net/monaco-aranzacja-wnetrz.shtml">Projektowanie wnętrz</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-ogrodow-riviera-francuska.shtml">Projektowanie krajobrazu</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/meble.shtml">Projektowanie mebli</a><br>
+<a id="fo" href="http://primstudio.net/ekskluzywne-meble-wloskie.shtml">Meble luksusowe</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a><br>
+<a id="fo" href="http://primstudio.net/projektowanie-wnetrz/oswietlenie.shtml">Oświetlenia</a>
+
+</div>
+
+<div id="share-buttons">
+<!-- Facebook -->
+<a href="http://www.facebook.com/sharer.php?u=http://www.primstudio.net" target="_blank"><img src="http://primstudio.net/images/facebook.png"alt="Facebook" 
+title="PrimStudio Facebook" border="0"/></a>
+ 
+<!-- Twitter -->
+<a href="http://twitter.com/share?url=http://www.primstudio.net&text=I like so much&hashtags=design of interior" target="_blank"><img src="http://primstudio.net/images/twitter.png" 
+alt="Twitter" title="PrimStudio Twitter" border="0" /></a>
+ 
+<!-- Google+ -->
+<a href="https://plus.google.com/share?url=http://www.primstudio.net" target="_blank"><img src="http://primstudio.net/images/google.png" alt="Google" title="PrimStudio Google" border="0"/></a>
+ 
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.primstudio.net" target="_blank"><img src="http://primstudio.net/images/linkedin.png" 
+alt="LinkedIn" title="PrimStudio LinkedIn"  border="0"/></a>
+
+<!-- Email -->
+<a href="mailto:?Subject=Simple Share Buttons&Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://www.primstudio.net"><img src="http://primstudio.net/images/email.png"
+alt="Email" title="PrimStudio Email" border="0" /></a>
+<!-- blog -->
+<a href="https://primstudio.wordpress.com/" target="_blank"> <img src="http://primstudio.net/images/wordpress.png" alt="Wordpress" title="PrimStudio Wordpress" border="0"/></a>
+
+</div>
+
+<div id="acro">
+<acronym  title="Wszelkie prawa zastrzeżone. Żaden materiał zawarty na tej stronie nie może być powielany, rozpowszechniany,
+ modyfikowany, przesyłany,duplikowany lub dostosowany  bez uprzedniej pisemnej zgody PrinStudio."> 
+ &copy; 2015 PrimStudio DESIGN</acronym>
+</div>
+</div>
+
+</div>
+</footer>
+
+<div id="navigation4" style="display: none;">
+     <a id="fo1" href="http://primstudio.net/дизайн-интерьера/мебель.shtml">Дизайн мебели</a>
+	<a id="fo1" href="http://primstudio.net/conception-interieur/carrieres.shtml">Carrières</a>
+	<a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/etapy.shtml">Etapy projektu </a>
+	<a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/style.shtml">Style </a>
+	<a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/meble.shtml">Projektowanie mebli</a>
+    <a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/kariera.shtml">Kariera</a>
+    <a id="fo1" href="http://primstudio.net/interior-design/furniture.shtml">Furniture design </a>	
+<h3><a id="fo1"  href="http://primstudio.net/landscape-design-french-riviera-ru.shtml">Landscaping Nice</a></h3>
+<h1><a id="fo1" href="http://primstudio.net/italian-luxury-furniture-france-ru.shtml">Italian luxury furniture</a></h1>
+<h3><a id="fo1" href="http://primstudio.net/conception-paysage-cote-d-azur-ru.shtml">Aménagement paysager Alpes Maritimes</a></h3>		
+<h1><a id="fo1" href="http://primstudio.net/interior-design-french-riviera-ru.shtml">Interior Design Monaco</a></h1>
+<h2><a id="fo1" href="http://primstudio.net/cannes-interior-designer-ru.shtml">Contact with designer  </a></h2>
+<h3><a id="fo1" href="http://primstudio.net/nice-interior-design-ru.shtml">Designer in Provence-Alpes-Cote d'Azur </a></h3>	
+<h2><a id="fo1" href="http://primstudio.net/russian-interior-designer-france.shtml">Russian interior designer in France </a></h2>
+<h2><a id="fo1" href="http://primstudio.net/monaco-aranzacja-wnetrz.shtml">Architektura wnętrz Alpes Maritimes Francja</a></h2>	
+    <a id="fo1" href="http://primstudio.net/conception-interieur/etapes.shtml">Étapes du projet</a>
+	<a id="fo1" href="http://primstudio.net/interior-design/portfolio.shtml">Portfolio  </a>
+	<a id="fo1" href="http://primstudio.net/interior-design/careers.shtml">Careers  </a>	
+	<a id="fo1" href="http://primstudio.net/дизайн-интерьера/этапы.shtml">Этапы проекта</a>
+    <a id="fo1" href="http://primstudio.net/interior-design/lighting.shtml">Lighting </a>	
+	<a id="fo1"  href="http://primstudio.net/interior-design/steps.shtml">Project steps </a>	
+<h3><a id="fo1" href="http://primstudio.net/ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн Ницца</a></h3>	
+<h1><a id="fo1" href="http://primstudio.net/conception-d-interieure-cote-d-azur-ru.shtml ">Architecte d'intérieur Côte d'Azur</a></h1>	
+<h3><a id="fo1" href="http://primstudio.net/nice-architecture-d-interieur-ru.shtml">Amenagement interieur Provence-Alpes-Côte d'Azur</a></h3>	
+<h1><a id="fo1" href="http://primstudio.net/дизайн-интерьера-французская-ривьера.shtml">Дизайн Интерьера Французская Ривьера</a></h1>
+<h2><a id="fo1"  href="http://primstudio.net/monaco-interior-design-ru.shtml">Interior design Alpes Maritimes France </a></h2>
+    <a id="fo1" href="http://primstudio.net/дизайн-интерьера/портфолио.shtml">Портфолио</a>
+    <a id="fo1" href="http://primstudio.net/дизайн-интерьера/освещение.shtml">Освещение</a>	
+	<a id="fo1" href="http://primstudio.net/conception-interieur/prix.shtml">Tarif</a>
+    <a id="fo1" href="http://primstudio.net/дизайн-интерьера/карьера.shtml">Карьера</a>	
+    <a id="fo1" href="http://primstudio.net/дизайн-интерьера/новости.shtml">Новости</a>	
+<h2><a id="fo1" href="http://primstudio.net/монако-дизайн-интерьера.shtml">Дизайн интерьера Альпы Приморские Франция</a></h2>
+<h2><a id="fo1" href="http://primstudio.net/monaco-amenagement-d-interieur-ru.shtml">Architecte d'intérieur Nice</a></h2>
+<h1><a id="fo1" href="http://primstudio.net/итальянская-элитная-мебель.shtml">Элитная итальянская мебель</a></h1>
+<h3><a id="fo1" href="http://primstudio.net/nicea-architektura-wnetrz.shtml">Projektant w Prowansja-Alpy-Lazurowe Wybrzeże</a></h3>	
+<h2><a id="fo1" href="http://primstudio.net/канны-дизайнер-интерьера.shtml">Контакт с дизайнером интерьера в Каннах</a></h2>
+<h1><a id="fo1" href="http://primstudio.net/meubles-luxueux-italien-france-ru.shtml">Meubles design italien luxe</a></h1>
+<h3><a id="fo1" href="http://primstudio.net/ницца-дизайн-интерьера.shtml">Дизайнер в Прованс-Альпы-Лазурный берег</a></h3>
+<h2><a id="fo1" href="http://primstudio.net/русский-дизайнер-интерьера-франция.shtml">Русский Дизайнер Интерьера во Франции</a></h2>
+<h2><a id="fo1" href="http://primstudio.net/projektant-wnetrz-francja.shtml">Architekt wnętrz we Francji</a></h2>	
+<h2><a id="fo1" href="http://primstudio.net/cannes-architecte-d-interieur-ru.shtml">Contact avec l'architecte d'intérieur à Cannes</a></h2>	
+    <a id="fo1" href="http://primstudio.net/interior-design/styles.shtml">Styles </a>
+    <a id="fo1" href="http://primstudio.net/interior-design/price.shtml">Price</a>
+    <a id="fo1" href="http://primstudio.net/interior-design/news.shtml">News </a>
+	<a id="fo1" href="http://primstudio.net/дизайн-интерьера/картины-скульптура.shtml">Живопись &amp; Скульптура</a>
+    <a id="fo1" href="http://primstudio.net/дизайн-интерьера/цена.shtml">Цена</a>
+	<a id="fo1" href="http://primstudio.net/conception-interieur/meubles.shtml">Design de mobilier</a>
+	<a id="fo1" href="http://primstudio.net/conception-interieur/peinture-sculpture.shtml">Peinture &amp; Sculpture</a>
+    <a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/nowosci.shtml">Nowości</a>
+    <a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/oswietlenie.shtml">Oświetlenia</a>
+	<a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/portfolio.shtml">Portfolio </a>
+	<a id="fo1" href="http://primstudio.net/дизайн-интерьера/стили.shtml">Стили</a>
+<h1><a id="fo1" href="http://primstudio.net/ekskluzywne-meble-wloskie.shtml">Ekskluzywne Meble włoskie</a></h1>	
+<h2><a id="fo1" href="http://primstudio.net/russe-designer-interieur-france.shtml">Architecte d'intérieur russe en France</a></h2>
+<h2><a id="fo1" href="http://primstudio.net/cannes-architekt-wnetrz.shtml">Kontakt z projektantem wnętrz w Cannes</a></h2>	
+<h3><a id="fo1" href="http://primstudio.net/projektowanie-ogrodow-riviera-francuska.shtml">Projektowanie ogrodow Nicea</a></h3>
+<h1><a id="fo1" href="http://primstudio.net/projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Projektowanie wnętrz Riwiera Francuska</a></h1>	
+    <a id="fo1" href="http://primstudio.net/conception-interieur/eclairage.shtml">Éclairage</a>
+	<a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/cena.shtml">Cena</a>
+    <a id="fo1" href="http://primstudio.net/interior-design/painting.shtml">Painting &amp; Sculpture  </a>
+	<a id="fo1" href="http://primstudio.net/projektowanie-wnetrz/malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a>
+    <a id="fo1" href="http://primstudio.net/conception-interieur/styles.shtml">Styles</a>
+    <a id="fo1" href="http://primstudio.net/conception-interieur/portfolio.shtml">Portfolio</a>
+	<a id="fo1" href="http://primstudio.net/conception-interieur/nouvelles.shtml">Nouvelles</a>
+ </div>
+
+<a href="#" onclick="opennavigation4('navigation4'); return false"><img src="http://primstudio.net/images/tag-cloud.png" alt="Tag Cloud" 
+title="otworzyć/zamknąć Tag Cloud"
+style="position:relative; float:right; bottom:70px; z-index:1100; width:70px; height:70px; " /></a>
+
+ <script type="text/javascript">
+function opennavigation4(id){
+ display = document.getElementById(id).style.display;
+ if(display=='none'){
+ document.getElementById(id).style.display='block';
+
+}else{
+document.getElementById(id).style.display='none';
+}
+
+}
+
+</script>

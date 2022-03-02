@@ -1,0 +1,177 @@
+<footer>
+
+
+<div id="blokblack">
+<div id="blok5">
+<a id="blok" href="cannes-architekt-wnetrz.shtml#contact">  
+<div id="blok0">
+KONTAKT Z NAMI
+</div>
+</a>
+
+<div id="blok5a"><br>
+<img src="images/primstudio-architecte-interieur.png" alt="PrimStudio projektowanie wnętrz" 
+title="PrimStudio projektowanie wnętrz" style="position: absolute; left:0px; top:0px; width:312px; height: 113px;"/>
+ <br><br><br><br><br><br><br>
+<p id="secondf"> 26, ul. Charles de Mouchy<br>
+ 06210 Mandelieu-la-Napoule<br>
+  Francja<br>
+Tel. +33630131343<br>
+Email: contact@primstudio.net<br>
+<br></p>
+</div>
+
+<div id="blok5b">
+<br><br><br>
+<p id="firstf">
+PRZEGLAD </p><br>
+
+<a id= "fo" href="style.html">Przegląd stylów</a><br>
+<a id="fo" href="etapy.html">Etapy projektowania wnętrz</a><br>
+<a id="fo" href="nicea-architektura-wnetrz.shtml">Misja projektanta</a><br>
+</div>
+
+<div id="blok5c">
+<br><br><br><br><br>
+<a id="fo" href="nicea-architektura-wnetrz.shtml">Misja</a><br>
+<a id="fo" href="projektant-wnetrz-francja.shtml">Dlaczego PrimStudio</a><br>
+<a id="fo" href="etapy.html">Etapy projektu</a><br>
+<a id="fo" href="style.html">Główne style</a><br>
+<a id="fo" href="cena.html">Cena</a><br>
+<a id="fo" href="portfoliopl.html">Portfolio</a><br>
+<a id="fo" href="nowosci.html">Nowości</a><br>
+<a id="fo" href="cannes-architekt-wnetrz.shtml">Kontakt</a><br>
+<a id="fo" href="kariera.html">Kariera</a>
+</div>
+
+<div id="blok5c">
+<br><br><br>
+<p id="firstf">NAWIGACJE</p> <br>
+<a id="fo" href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml">Główna</a><br>
+<a id="fo" href="monaco-aranzacja-wnetrz.shtml">Projektowanie wnętrz</a><br>
+<a id="fo" href="projektowanie-ogrodow-riviera-francuska.shtml">Projektowanie ogrodów</a><br>
+<a id="fo" href="meble.shtml">Projektowanie mebli</a><br>
+<a id="fo" href="ekskluzywne-meble-wloskie.shtml">Meble luksusowe</a><br>
+<a id="fo" href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a><br>
+<a id="fo" href="oswietlenie.shtml">Oświetlenia</a>
+
+</div>
+
+<div id="share-buttons">
+<!-- Facebook -->
+<a href="http://www.facebook.com/sharer.php?u=http://www.primstudio.net" target="_blank"><img src="images/facebook.png"alt="Facebook" 
+title="PrimStudio Facebook" border="0"/></a>
+ 
+<!-- Twitter -->
+<a href="http://twitter.com/share?url=http://www.primstudio.net&text=I like so much&hashtags=design of interior" target="_blank"><img src="images/twitter.png" 
+alt="Twitter" title="PrimStudio Twitter" border="0" /></a>
+ 
+<!-- Google+ -->
+<a href="https://plus.google.com/share?url=http://www.primstudio.net" target="_blank"><img src="images/google.png" alt="Google" title="PrimStudio Google" border="0"/></a>
+ 
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.primstudio.net" target="_blank"><img src="images/linkedin.png" 
+alt="LinkedIn" title="PrimStudio LinkedIn"  border="0"/></a>
+
+<!-- Email -->
+<a href="mailto:?Subject=Simple Share Buttons&Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://www.primstudio.net"><img src="images/email.png"
+alt="Email" title="PrimStudio Email" border="0" /></a>
+<!-- blog -->
+<a href="https://primstudio.wordpress.com/" target="_blank"> <img src="images/wordpress.png" alt="Wordpress" title="PrimStudio Wordpress" border="0"/></a>
+
+</div>
+
+<div id="acro">
+<acronym  title="Wszelkie prawa zastrzeżone. Żaden materiał zawarty na tej stronie nie może być powielany, rozpowszechniany,
+ modyfikowany, przesyłany,duplikowany lub dostosowany  bez uprzedniej pisemnej zgody PrinStudio."> 
+ &copy; 2015 PrimStudio DESIGN</acronym>
+</div>
+</div>
+
+</div>
+</footer>
+
+<div id="navigation4" style="display: none;">
+          <a id="fo1" href="мебель.shtml">Дизайн мебели</a>
+	<a id="fo1" href="carrieres.shtml">Carrières</a>
+	<a id="fo1" href="etapy.shtml">Etapy projektu </a>
+	<a id="fo1" href="style.shtml">Style </a>
+	<a id="fo1" href="meble.shtml">Projektowanie mebli</a>
+    <a id="fo1" href="kariera.shtml">Kariera</a>
+    <a id="fo1" href="furniture.shtml">Furniture design </a>	
+<h3><a id="fo1"  href="landscape-design-french-riviera-ru.shtml">Landscaping Nice</a></h3>
+<h1><a id="fo1" href="italian-luxury-furniture-france-ru.shtml">Italian luxury furniture</a></h1>
+<h3><a id="fo1" href="conception-paysage-cote-d-azur-ru.shtml">Aménagement paysager Alpes Maritimes</a></h3>		
+<h1><a id="fo1" href="interior-design-french-riviera-ru.shtml">Interior Design Monaco</a></h1>
+<h2><a id="fo1" href="cannes-interior-designer-ru.shtml">Contact with designer  </a></h2>
+<h3><a id="fo1" href="nice-interior-design-ru.shtml">Designer in Provence-Alpes-Cote d'Azur </a></h3>	
+<h2><a id="fo1" href="russian-interior-designer-france.shtml">Russian interior designer in France </a></h2>
+<h2><a id="fo1" href="monaco-aranzacja-wnetrz.shtml">Architektura wnętrz Alpes Maritimes Francja</a></h2>	
+    <a id="fo1" href="etapes.shtml">Étapes du projet</a>
+	<a id="fo1" href="portfolio.shtml">Portfolio  </a>
+	<a id="fo1" href="careers.shtml">Careers  </a>	
+	<a id="fo1" href="этапы.shtml">Этапы проекта</a>
+    <a id="fo1" href="lighting.shtml">Lighting </a>	
+	<a id="fo1"  href="steps.shtml">Project steps </a>	
+<h3><a id="fo1" href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн Ницца</a></h3>	
+<h1><a id="fo1" href="conception-d-interieure-cote-d-azur-ru.shtml ">Architecte d'intérieur Côte d'Azur</a></h1>	
+<h3><a id="fo1" href="nice-architecture-d-interieur-ru.shtml">Amenagement interieur Provence-Alpes-Côte d'Azur</a></h3>	
+<h1><a id="fo1" href="дизайн-интерьера-французская-ривьера.shtml">Дизайн Интерьера Французская Ривьера</a></h1>
+<h2><a id="fo1"  href="monaco-interior-design-ru.shtml">Interior design Alpes Maritimes France </a></h2>
+    <a id="fo1" href="портфолио.shtml">Портфолио</a>
+    <a id="fo1" href="освещение.shtml">Освещение</a>	
+	<a id="fo1" href="prix.shtml">Tarif</a>
+    <a id="fo1" href="карьера.shtml">Карьера</a>	
+    <a id="fo1" href="новости.shtml">Новости</a>	
+<h2><a id="fo1" href="монако-дизайн-интерьера.shtml">Дизайн интерьера Альпы Приморские Франция</a></h2>
+<h2><a id="fo1" href="monaco-amenagement-d-interieur-ru.shtml">Architecte d'intérieur Nice</a></h2>
+<h1><a id="fo1" href="итальянская-элитная-мебель.shtml">Элитная итальянская мебель</a></h1>
+<h3><a id="fo1" href="nicea-architektura-wnetrz.shtml">Projektant w Prowansja-Alpy-Lazurowe Wybrzeże</a></h3>	
+<h2><a id="fo1" href="канны-дизайнер-интерьера.shtml">Контакт с дизайнером интерьера в Каннах</a></h2>
+<h1><a id="fo1" href="meubles-luxueux-italien-france-ru.shtml">Meubles design italien luxe</a></h1>
+<h3><a id="fo1" href="ницца-дизайн-интерьера.shtml">Дизайнер в Прованс-Альпы-Лазурный берег</a></h3>
+<h2><a id="fo1" href="русский-дизайнер-интерьера-франция.shtml">Русский Дизайнер Интерьера во Франции</a></h2>
+<h2><a id="fo1" href="projektant-wnetrz-francja.shtml">Architekt wnętrz we Francji</a></h2>	
+<h2><a id="fo1" href="cannes-architecte-d-interieur-ru.shtml">Contact avec l'architecte d'intérieur à Cannes</a></h2>	
+    <a id="fo1" href="styles.shtml">Styles </a>
+    <a id="fo1" href="price.shtml">Price</a>
+    <a id="fo1" href="news.shtml">News </a>
+	<a id="fo1" href="картины-скульптура.shtml">Живопись &amp; Скульптура</a>
+    <a id="fo1" href="цена.shtml">Цена</a>
+	<a id="fo1" href="meubles.shtml">Design de mobilier</a>
+	<a id="fo1" href="peinture-sculpture.shtml">Peinture &amp; Sculpture</a>
+    <a id="fo1" href="nowosci.shtml">Nowości</a>
+    <a id="fo1" href="oswietlenie.shtml">Oświetlenia</a>
+	<a id="fo1" href="portfolioen.shtml">Portfolio </a>
+	<a id="fo1" href="стили.shtml">Стили</a>
+<h1><a id="fo1" href="ekskluzywne-meble-wloskie.shtml">Ekskluzywne Meble włoskie</a></h1>	
+<h2><a id="fo1" href="russe-designer-interieur-france.shtml">Architecte d'intérieur russe en France</a></h2>
+<h2><a id="fo1" href="cannes-architekt-wnetrz.shtml">Kontakt z projektantem wnętrz w Cannes</a></h2>	
+<h3><a id="fo1" href="projektowanie-ogrodow-riviera-francuska.shtml">Aranżacja ogrodów Nicea</a></h3>
+<h1><a id="fo1" href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Projektowanie wnętrz Riwiera Francuska</a></h1>	
+    <a id="fo1" href="eclairage.shtml">Éclairage</a>
+	<a id="fo1" href="cena.shtml">Cena</a>
+    <a id="fo1" href="painting.shtml">Painting &amp; Sculpture  </a>
+	<a id="fo1" href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a>
+    <a id="fo1" href="stylesen.shtml">Styles</a>
+    <a id="fo1" href="portfoliopl.shtml">Portfolio</a>
+	<a id="fo1" href="nouvelles.shtml">Nouvelles</a>
+ </div>
+
+<a href="#" onclick="opennavigation4('navigation4'); return false"><img src="images/tag-cloud.png" alt="Tag Cloud" 
+title="otworzyć/zamknąć Tag Cloud"
+style="position:relative; float:right; bottom:70px; z-index:1100; width:70px; height:70px; " /></a>
+
+ <script type="text/javascript">
+function opennavigation4(id){
+ display = document.getElementById(id).style.display;
+ if(display=='none'){
+ document.getElementById(id).style.display='block';
+
+}else{
+document.getElementById(id).style.display='none';
+}
+
+}
+
+</script>

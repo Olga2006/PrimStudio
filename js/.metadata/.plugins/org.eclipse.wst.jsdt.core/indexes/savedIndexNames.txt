@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+D:\7primstudio\site2\js\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

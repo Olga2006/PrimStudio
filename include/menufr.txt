@@ -1,0 +1,113 @@
+<div class="description">
+		<body onload="allClose()">
+		<div id="menu_left">
+		<ul id="menu">
+  <li><a href="#" onclick="openMenu(this);return false"><img src="images/menu.jpg" alt="menu"  title="ouvrir/fermer menu"/></a>
+
+    <ul id="nav_left">
+	 <div id="menuback" >
+		
+
+					<li><a href="conception-d-interieure-cote-d-azur-ru.shtml ">Accueil</a></li>
+					
+                        <li><a href="#" onclick="openMenu(this);return false">À propos...</a>
+                            <ul>
+                                <li><a href="russe-designer-interieur-france.shtml">Pourquoi PrimStudio</a></li>
+                                <li><a href="nice-architecture-d-interieur-ru.shtml">Mission</a></li>
+                                <li><a href="etapes.shtml">Étapes du projet</a></li>
+								<li><a href="styles.shtml">Styles principaux</a></li>
+                                <li><a href="prix.shtml">Tarif</a></li>
+                                </ul> 
+                               
+                        </li>                                              
+  
+                        <li><a href="#" onclick="openMenu(this);return false" >Conception...</a>
+                            <ul>
+                                <li ><a href="/monaco-amenagement-d-interieur-ru.shtml ">Architecture d'interieur</a></li>
+                                <li><a href="meubles.shtml">Design de mobilier</a></li>
+                                <li><a href="conception-paysage-cote-d-azur-ru.shtml">Aménagement paysager</a></li>    
+							    <li><a href="portfolio.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                        
+					<li><a href="#" onclick="openMenu(this);return false" >Ameublement...</a>
+						  <ul>
+						        <li><a href="meubles-luxueux-italien-france-ru.shtml">Mobilier luxueux</a>	</li>
+                                <li><a href="peinture-sculpture.shtml">Peinture &amp; Sculpture</a></li>    
+							    <li><a href="eclairage.shtml">Éclairage</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="cannes-architecte-d-interieur-ru.shtml">Contact</a></li>
+	
+</div>
+   </ul>
+ </li>
+</ul>
+</div>
+ </body>
+ 
+	
+			<div id="menu_div">
+            <div id="navigation">
+                <div id="menu">
+                    <ul id="nav">
+					<li><a href="conception-d-interieure-cote-d-azur-ru.shtml ">Accueil</a></li>
+					
+                        <li><a href="#">À propos</a>
+                            <ul>
+                                <li><a href="russe-designer-interieur-france.shtml">Pourquoi PrimStudio</a></li>
+                                <li><a href="nice-architecture-d-interieur-ru.shtml">Mission</a></li>
+                                <li><a href="etapes.shtml">Étapes du projet</a></li>
+								<li><a href="styles.shtml">Styles principaux</a></li>
+                                <li><a href="prix.shtml">Tarif</a></li>
+                                </ul> 
+                               
+                        </li>                                              
+  
+                        <li><a href="#" >Conception</a>
+                            <ul>
+                                <li ><a href="monaco-amenagement-d-interieur-ru.shtml ">Architecture d'interieur</a></li>
+                                <li><a href="meubles.shtml">Design de mobilier</a></li>
+                                <li><a href="conception-paysage-cote-d-azur-ru.shtml">Aménagement paysager</a></li>    
+							    <li><a href="portfolio.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                        
+					<li><a href="#">Ameublement</a>
+						  <ul>
+						        <li><a href="meubles-luxueux-italien-france-ru.shtml">Mobilier luxueux</a>	</li>
+                                <li><a href="peinture-sculpture.shtml">Peinture &amp; Sculpture</a></li>    
+							    <li><a href="eclairage.shtml">Éclairage</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="cannes-architecte-d-interieur-ru.shtml">Contact</a></li>
+
+                    </ul>
+ 
+					  </div><!-- #menu КОНЕЦ-->	
+ </div>
+ </div><!-- #menu_div КОНЕЦ--> 
+
+</div>
+  <style>
+   li {
+    list-style-type: none; /* Убираем маркеры */
+
+  </style>
+
+	 <script type="text/javascript">
+	 function openMenu(node){
+	var subMenu = node.parentNode.getElementsByTagName("ul")[0];
+	subMenu.style.display == "none" ? subMenu.style.display = "block" : subMenu.style.display = "none";
+}
+function allClose(){
+	var list = document.getElementById("menu").getElementsByTagName("ul");
+	for(var i=0;i<list.length;i++){
+		list[i].style.display = "none";
+	}
+}
+
+	 
+	 </script>

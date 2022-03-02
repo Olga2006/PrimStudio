@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /noindex/
+Host: www.primstudio.net
+Sitemap:http://primstudio.net/sitemap.xml

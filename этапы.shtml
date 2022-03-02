@@ -1,0 +1,560 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+<title>PrimStudio | Этапы разработки дизайн-проекта </title>
+ <meta name="description" content="Выясните каковы основные этапы проектирования интерьера &amp; экстерьера"/>
+ <meta name="keywords" content="Этапы проекта"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+   <!--[if IE]><link rel="stylesheet" type="text/css" href="not-ie.css" /><![endif]-->     
+<link href='//fonts.googleapis.com/css?family=Raleway:100, 400,300,600,700,500,200|-1:200,300,400,600,800&subset=latin,latin-ext' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet"type="text/css" href="styleall.css"/>
+<link rel="stylesheet"type="text/css" href="stepsstyle.css"/>
+
+
+  <link rel="shortcut icon" href="images/favicon.png" type="image/png"/>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66344442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31954036 = new Ya.Metrika({
+                    id:31954036,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->
+</head>
+
+
+<body>
+
+<header>
+
+
+<img src="images/architecte-d-interieur-cote-d-azure.jpg" alt="Проектирование интерьеров на Лазурном Берегу" 
+title="Проектирование интерьеров на Лазурном Берегу" style="position: absolute; right:0px; top:60px; width:1000px;  min-width: 320px; height: 500px;" />
+ 
+<!--#include virtual="include/menuru.txt"-->
+<div class="description">
+		<body onload="allClose()">
+		<div id="menu_left">
+		<ul id="menu">
+ <li><a href="#" onclick="openMenu(this);return false"><img src="images/menu.jpg"   alt="меню"  title="открыть/закрыть меню"/></a>
+    <ul id="nav_left">
+	 <div id="menuback" >
+					<li><a href="дизайн-интерьера-французская-ривьера.shtml">Главная</a></li>
+					
+                        <li><a href="#" onclick="openMenu(this);return false">Информация...</a>
+                            <ul>
+                                <li><a href="русский-дизайнер-интерьера-франция.shtml">Почему PrimStudio</a></li>
+                                <li><a href="ницца-дизайн-интерьера.shtml">Миссия</a></li>
+                                <li><a href="этапы.shtml">Этапы проекта</a></li>
+								<li><a href="стили.shtml">Стили в интерьере</a></li>
+                                <li><a href="цена.shtml">Цена</a></li>
+                                </ul> 
+                               
+                        </li>                                              
+     
+                        <li><a href="#" onclick="openMenu(this);return false" >Дизайн...</a>
+                            <ul>
+                                <li ><a href="монако-дизайн-интерьера.shtml" >Дизайн интерьера</a></li>
+                                <li><a href="мебель.shtml">Дизайн мебели</a></li>
+                                <li><a href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн</a></li>    
+							    <li><a href="портфолио.shtml">Портфолио</a></li>
+                            </ul>
+                        </li>
+                        
+					<li><a href="#" onclick="openMenu(this);return false" >Меблировка...</a>
+						  <ul>
+						        <li><a href="итальянская-элитная-мебель.shtml">Элитная мебель</a>	</li>
+                                <li><a href="картины-скульптура.shtml">Живопись &amp; Скульптура</a></li>    
+							    <li><a href="освещение.shtml">Освещение</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="канны-дизайнер-интерьера.shtml">Контакт</a></li>
+			
+	
+
+</div>
+   </ul>
+ </li>
+</ul>
+</div>
+ </body>	
+
+  <style>
+   li {
+    list-style-type: none; /* Убираем маркеры */
+
+  </style>
+	 <script type="text/javascript">
+	 function openMenu(node){
+	var subMenu = node.parentNode.getElementsByTagName("ul")[0];
+	subMenu.style.display == "none" ? subMenu.style.display = "block" : subMenu.style.display = "none";
+}
+function allClose(){
+	var list = document.getElementById("menu").getElementsByTagName("ul");
+	for(var i=0;i<list.length;i++){
+		list[i].style.display = "none";
+	}
+} 
+	 </script>
+			
+			<div id="menu_div">
+            <div id="navigation">
+                <div id="menu">
+                    <ul id="nav">
+<!--#include virtual="include/menuru.txt"-->	
+					 <li><a href="дизайн-интерьера-французская-ривьера.shtml">Главная</a></li>
+                     <li><a href="#">Информация</a>
+                            <ul>
+                                <li><a href="русский-дизайнер-интерьера-франция.shtml">Почему PrimStudio</a></li>
+                                <li><a href="ницца-дизайн-интерьера.shtml">Миссия</a></li>
+                                <li><a href="этапы.shtml">Этапы проекта</a></li>
+								<li><a href="стили.shtml">Стили в интерьере</a></li>
+                                <li><a href="цена.shtml">Цена</a></li>
+                                </ul> 
+                        </li>                                              
+                        <li><a href="#">Дизайн</a>
+                            <ul>
+                                <li ><a href="монако-дизайн-интерьера.shtml" >Дизайн интерьера</a></li>
+                                <li><a href="мебель.shtml">Дизайн мебели</a></li>
+                                <li><a href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн</a></li>    
+							    <li><a href="портфолио.shtml">Портфолио</a></li>
+                            </ul>
+                        </li>
+					<li><a href="#">Меблировка</a>
+						  <ul>
+						        <li><a href="итальянская-элитная-мебель.shtml">Элитная мебель</a>	</li>
+                                <li><a href="картины-скульптура.shtml">Живопись &amp; Скульптура</a></li>    
+							    <li><a href="освещение.shtml">Освещение</a></li>
+					       </ul>
+					  </li>
+                      <li><a href="канны-дизайнер-интерьера.shtml">Контакт</a></li>
+	
+                    </ul>
+ 
+					  </div><!-- #menu КОНЕЦ-->	
+ </div>
+ </div><!-- #menu_div КОНЕЦ--> 
+
+</div>
+<!--#include virtual="include/menuru.txt"-->
+
+<div id="flag">
+<div id="flagcont">
+<a href="etapy.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Etapy realizacji projektu wnętrz" title="Etapy realizacji projektu wnętrz" src="images/flagpl.jpg"/>
+</div>
+<a id="flagt" href="etapy.shtml">PL</a>
+</div>
+</a>
+
+<a href="этапы.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Этапы разработки дизайн-проекта" title="Этапы разработки дизайн-проекта" src="images/flagru.jpg"/>
+</div>
+<a id="flagt" href="этапы.shtml">RU</a>
+</div>
+</a>
+
+<a href="etapes.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Etapes de la réalisation du projet" title="Etapes de la réalisation du projet" src="images/flagfr.jpg"/>
+</div>
+<a id="flagt" href="etapes.shtml">FR</a>
+</div>
+</a>
+
+<a href="steps.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Steps of an interior design project" title="Steps of an interior design project" src="images/flagen.jpg"/>
+</div>
+<a id="flagt" href="steps.shtml">EN</a>
+</div>
+</a>
+</div>	</div>
+
+ <div id="pagename">	
+<p id="firsthead">
+Этапы проекта </p>
+	</div>	
+<div id="icon">	</div>	
+
+
+ </header>
+ 
+
+
+
+ 
+<a name="stepsall"></a>
+ <main>
+ <div id="blokgray">
+ <div id="blok1">
+<br>
+<p id="firstc" style="font-family:Century Gothic;" >PrimStudio предлагает услуги разработки и планирования пространства, которые включают в себя 8 шагов</p>	
+<br><br><br>
+
+ <div id="blok20">
+<div id="blok1al">
+<p id="firstc" style="font-family:Century Gothic;"><a id="mainb"  style="font-family:Century Gothic;" href="канны-дизайнер-интерьера.shtml#contact">1.Отправьте информацию </a> о вашем проекте</p><br>
+<p id="secondl"> Это все здание или несколько комнат? Размеры и тип помещений.
+Вы начинаете с нуля или модернизируете помещения? Вы рассматриваете перепланировку или расширение?<br>
+После получения Вашего запроса, мы свяжемся с Вами  чтобы скоординировать время и место для встречи.</p>
+
+</div>
+
+<div id="blok1br"> <img src="images/step1.jpg" 
+   width="300" height="225"> </div>
+	</div>	
+
+
+ <div id="blok20">
+
+
+
+<div id="blok1ar">
+<p id="firstc" style="font-family:Century Gothic;">2.Вводная встреча</p><br>
+<p id="secondl">На этом этапе будут определены четкое направление и возможности для вашего проекта. Мы встретимся, чтобы узнать вас и ваши потребности, предпочтения и ваше видение. 
+Мы обсудим бюджет и сроки.</p>
+</div>
+
+<div id="blok1bl"> <img src="images/step2.jpg" 
+   width="300" height="225"> </div>
+
+	</div>	
+	
+	
+	
+ <div id="blok20">
+<div id="blok1al">
+<p id="firstc" style="font-family:Century Gothic;">3.Посещение объекта</p><br>
+<p id="secondl">На этом этапе дизайнер посещает объект для сбора более подробной информации.
+Мы делаем измерения ваших помещений, помечая электрические розетки, батареи отопления, камин, покрытия, дверные навесы, и так далее.</p>
+</div>
+
+<div id="blok1br"> <img src="images/step3.jpg" 
+   width="226" height="220"> </div>
+	</div>		
+	
+
+<a name="stepsfollow"></a>
+
+
+ <div id="blok20">
+
+
+<div id="blok1ar">
+<p id="firstc">4.Планировочный чертеж</p><br>
+
+<p id="secondl" style="font-family:Century Gothic;">Дизайнер создает масштабный вид вашего пространства. Ориентируясь на практические соображения, таке как размер, пропорции и функции, 
+определим основные объекты и их расположение в комнате.
+После мы встретимся с вами, чтобы рассмотреть планы, закончить выбор и сделать какие-либо необходимые уточнения.</p>
+</div>
+
+<div id="blok1bl"> <img src="images/step4.jpg" 
+   width="300" height="225"> </div>
+
+	</div>	
+	
+	
+ <div id="blok20">
+<div id="blok1al">
+<p id="firstc" style="font-family:Century Gothic;">5.Презентация дизайна </p><br>
+<p id="secondl">Мы подбираем детали внутренней отделки. Мы разрабатываем сплоченную палитру цветов, материалов, текстур, строительных и отделочных материалов.
+Во время этой фазы будут визуализированы все проектируемые элементы и представлены Вам для рассмотрения.</p>
+</div>
+
+<div id="blok1br"> <img src="images/step5.jpg" 
+   width="300" height="225"> </div>
+	</div>		
+
+
+
+ 
+ <div id="blok20">
+
+
+<div id="blok1ar">
+<p id="firstc" style="font-family:Century Gothic;">6.Строительная документация</p><br>
+<p id="secondl">Мы готовим подробные рабочие чертежи, так что ваш подрядчик представляет, каковы наши дизайн намерения и имея точные размеры, может предоствить цену на строительные работы.
+</p>
+</div>
+<div id="blok1bl"> <img src="images/step6.jpg" 
+   width="300" height="225"> </div>
+
+
+	</div>	
+		
+ <div id="blok20">
+<div id="blok1al">
+<p id="firstc" style="font-family:Century Gothic;">7.Поставка &amp; Установка</p><br>
+<p id="secondl">Мы подготовим и предоставим заказы на все предметы внутренней отделки и мебели, а также обеспечим доставку и монтаж.</p>
+</div>
+
+<div id="blok1br"> <img src="images/step7.jpg" 
+   width="300" height="225"> </div>
+	</div>		
+		
+
+
+
+
+
+ <div id="blok20">
+
+
+<div id="blok1ar">
+<p id="firstc" style="font-family:Century Gothic;">8.Строительство</p><br>
+<p id="secondl">Мы посещаем строительную площадку, курируя работу субподрядчиков и обеспечивая продвижение работы по плану.
+</p>
+</div>
+<div id="blok1bl"> <img src="images/step8.jpg" 
+   width="300" height="225"> </div>
+
+</div>
+<br>
+
+
+
+<div id="blok4">
+<br><br><br>
+<p id="firstc"><a id="mainb" href="канны-дизайнер-интерьера.shtml#contact">Шаг 1 </a> Поехали!</p>
+ <br><br>
+</div>
+
+
+</div>		
+</div>
+
+</main>
+
+<!--#include virtual="include/footerru.txt"-->
+
+<footer>
+
+<div id="blokblack">
+<div id="blok5">  
+<a id="blok" href="канны-дизайнер-интерьера.shtml#contact">  
+<div id="blok0">
+связь с нами
+</div>
+</a>
+
+<div id="blok5a"><br>
+<img src="images/primstudio-architecte-interieur.png" alt="PrimStudio Дизайн интерьера" 
+title="PrimStudio Дизайн интерьера" style="position: absolute; left:0px; top:0px; width:312px; height: 113px;" />
+<br><br><br><br><br><br><br>
+<p id="secondf">26, ул. Шарль де Муши<br>
+06210 Мандельё-ла-Напуль<br>
+  Франция<br>
+Teл. +33630131343<br>
+Email: contact@primstudio.net<br>
+<br></p>
+
+</div>
+
+<div id="blok5b">
+<br><br><br>
+<p id="firstf">
+ОБЗОР </p><br>
+<a id= "fo" href="https://primstudio.wordpress.com/">БЛОГ</a><br>
+<a id= "fo" href="стили.shtml">Обзор стилей</a><br>
+<a id="fo" href="этапы.shtml">Этапы проекта интерьера</a><br>
+<a id="fo" href="ницца-дизайн-интерьера.shtml">Миссия дизайнера</a><br>
+</div>
+
+
+
+
+
+<div id="blok5c">
+<br><br><br><br><br>
+<a id="fo" href="ницца-дизайн-интерьера.shtml">Миссия</a><br>
+<a id="fo" href="русский-дизайнер-интерьера-франция.shtml">Почему PrimStudio</a><br>
+<a id="fo" href="этапы.shtml">Этапы проекта</a><br>
+<a id="fo" href="стили.shtml">Стили в интерьере</a><br>
+<a id="fo" href="цена.shtml">Цена</a><br>
+<a id="fo" href="портфолио.shtml">Портфолио</a><br>
+<a id="fo" href="новости.shtml">Новости</a><br>
+<a id="fo" href="канны-дизайнер-интерьера.shtml">Контакт</a><br>
+<a id="fo" href="карьера.shtml">Карьера</a>
+</div>
+
+<div id="blok5c">
+<br><br><br>
+<p id="firstf">НАВИГАЦИЯ </p> <br>
+<a id="fo" href="дизайн-интерьера-французская-ривьера.shtml">Главная</a><br>
+<a id="fo" href="монако-дизайн-интерьера.shtml">Дизайн интерьера</a><br>
+<a id="fo" href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн</a><br>
+<a id="fo" href="мебель.shtml">Дизайн мебели</a><br>
+<a id="fo" href="итальянская-элитная-мебель.shtml ">Элитная мебель</a><br>
+<a id="fo" href="картины-скульптура.shtml">Живопись &amp; Скульптура</a><br>
+<a id="fo" href="освещение.shtml">Освещение</a>
+
+</div>
+
+<div id="share-buttons">
+<!-- Facebook -->
+<a href="http://www.facebook.com/sharer.php?u=http://www.primstudio.net" target="_blank"><img src="images/facebook.png"alt="Facebook" 
+title="PrimStudio Facebook" border="0"/></a>
+ 
+<!-- Twitter -->
+<a href="http://twitter.com/share?url=http://www.primstudio.net&text=I like so much&hashtags=design of interior" target="_blank"><img src="images/twitter.png" 
+alt="Twitter" title="PrimStudio Twitter" border="0" /></a>
+ 
+<!-- Google+ -->
+<a href="https://plus.google.com/share?url=http://www.primstudio.net" target="_blank"><img src="images/google.png" alt="Google" title="PrimStudio Google" border="0"/></a>
+ 
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.primstudio.net" target="_blank"><img src="images/linkedin.png" 
+alt="LinkedIn" title="PrimStudio LinkedIn"  border="0"/></a>
+
+<!-- Email -->
+<a href="mailto:?Subject=Simple Share Buttons&Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://www.primstudio.net"><img src="images/email.png"
+alt="Email" title="PrimStudio Email" border="0" /></a>
+<!-- blog -->
+<a href="https://primstudio.wordpress.com/" target="_blank"> <img src="images/wordpress.png" alt="Wordpress" title="PrimStudio Wordpress" border="0"/></a>
+
+
+</div>
+
+
+<div id="acro">
+<acronym  title="Все права защищены. Ни какой материал, содержащийся на данном сайте, не может быть воспроизведен, распространен,
+ изменен, передан, повторен или адаптирован без предварительного письменного разрешения PrinStudio."> 
+ &copy; 2015 PrimStudio DESIGN</acronym>
+</div>
+</div>
+
+</div>
+</footer>
+
+<div id="navigation4" style="display: none;">
+     <a id="fo1" href="мебель.shtml">Дизайн мебели</a>
+	<a id="fo1" href="carrieres.shtml">Carrières</a>
+	<a id="fo1" href="etapy.shtml">Etapy projektu </a>
+	<a id="fo1" href="style.shtml">Style </a>
+	<a id="fo1" href="meble.shtml">Projektowanie mebli</a>
+    <a id="fo1" href="kariera.shtml">Kariera</a>
+    <a id="fo1" href="furniture.shtml">Furniture design </a>	
+<h3><a id="fo1"  href="landscape-design-french-riviera-ru.shtml">Landscaping Nice</a></h3>
+<h1><a id="fo1" href="italian-luxury-furniture-france-ru.shtml">Italian luxury furniture</a></h1>
+<h3><a id="fo1" href="conception-paysage-cote-d-azur-ru.shtml">Aménagement paysager Alpes Maritimes</a></h3>		
+<h1><a id="fo1" href="interior-design-french-riviera-ru.shtml">Interior Design Monaco</a></h1>
+<h2><a id="fo1" href="cannes-interior-designer-ru.shtml">Contact with designer  </a></h2>
+<h3><a id="fo1" href="nice-interior-design-ru.shtml">Designer in Provence-Alpes-Cote d'Azur </a></h3>	
+<h2><a id="fo1" href="russian-interior-designer-france.shtml">Russian interior designer in France </a></h2>
+<h2><a id="fo1" href="monaco-aranzacja-wnetrz.shtml">Architektura wnętrz Alpes Maritimes Francja</a></h2>	
+    <a id="fo1" href="etapes.shtml">Étapes du projet</a>
+	<a id="fo1" href="portfolio.shtml">Portfolio  </a>
+	<a id="fo1" href="careers.shtml">Careers  </a>	
+	<a id="fo1" href="этапы.shtml">Этапы проекта</a>
+    <a id="fo1" href="lighting.shtml">Lighting </a>	
+	<a id="fo1"  href="steps.shtml">Project steps </a>	
+<h3><a id="fo1" href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн Ницца</a></h3>	
+<h1><a id="fo1" href="conception-d-interieure-cote-d-azur-ru.shtml ">Architecte d'intérieur Côte d'Azur</a></h1>	
+<h3><a id="fo1" href="nice-architecture-d-interieur-ru.shtml">Amenagement interieur Provence-Alpes-Côte d'Azur</a></h3>	
+<h1><a id="fo1" href="дизайн-интерьера-французская-ривьера.shtml">Дизайн Интерьера Французская Ривьера</a></h1>
+<h2><a id="fo1"  href="monaco-interior-design-ru.shtml">Interior design Alpes Maritimes France </a></h2>
+    <a id="fo1" href="портфолио.shtml">Портфолио</a>
+    <a id="fo1" href="освещение.shtml">Освещение</a>	
+	<a id="fo1" href="prix.shtml">Tarif</a>
+    <a id="fo1" href="карьера.shtml">Карьера</a>	
+    <a id="fo1" href="новости.shtml">Новости</a>	
+<h2><a id="fo1" href="монако-дизайн-интерьера.shtml">Дизайн интерьера Альпы Приморские Франция</a></h2>
+<h2><a id="fo1" href="monaco-amenagement-d-interieur-ru.shtml">Architecte d'intérieur Nice</a></h2>
+<h1><a id="fo1" href="итальянская-элитная-мебель.shtml">Элитная итальянская мебель</a></h1>
+<h3><a id="fo1" href="nicea-architektura-wnetrz.shtml">Projektant w Prowansja-Alpy-Lazurowe Wybrzeże</a></h3>	
+<h2><a id="fo1" href="канны-дизайнер-интерьера.shtml">Контакт с дизайнером интерьера в Каннах</a></h2>
+<h1><a id="fo1" href="meubles-luxueux-italien-france-ru.shtml">Meubles design italien luxe</a></h1>
+<h3><a id="fo1" href="ницца-дизайн-интерьера.shtml">Дизайнер в Прованс-Альпы-Лазурный берег</a></h3>
+<h2><a id="fo1" href="русский-дизайнер-интерьера-франция.shtml">Русский Дизайнер Интерьера во Франции</a></h2>
+<h2><a id="fo1" href="projektant-wnetrz-francja.shtml">Architekt wnętrz we Francji</a></h2>	
+<h2><a id="fo1" href="cannes-architecte-d-interieur-ru.shtml">Contact avec l'architecte d'intérieur à Cannes</a></h2>	
+    <a id="fo1" href="styles.shtml">Styles </a>
+    <a id="fo1" href="price.shtml">Price</a>
+    <a id="fo1" href="news.shtml">News </a>
+	<a id="fo1" href="картины-скульптура.shtml">Живопись &amp; Скульптура</a>
+    <a id="fo1" href="цена.shtml">Цена</a>
+	<a id="fo1" href="meubles.shtml">Design de mobilier</a>
+	<a id="fo1" href="peinture-sculpture.shtml">Peinture &amp; Sculpture</a>
+    <a id="fo1" href="nowosci.shtml">Nowości</a>
+    <a id="fo1" href="oswietlenie.shtml">Oświetlenia</a>
+	<a id="fo1" href="portfolioen.shtml">Portfolio </a>
+	<a id="fo1" href="стили.shtml">Стили</a>
+<h1><a id="fo1" href="ekskluzywne-meble-wloskie.shtml">Ekskluzywne Meble włoskie</a></h1>	
+<h2><a id="fo1" href="russe-designer-interieur-france.shtml">Architecte d'intérieur russe en France</a></h2>
+<h2><a id="fo1" href="cannes-architekt-wnetrz.shtml">Kontakt z projektantem wnętrz w Cannes</a></h2>	
+<h3><a id="fo1" href="projektowanie-ogrodow-riviera-francuska.shtml">Aranżacja ogrodów Nicea</a></h3>
+<h1><a id="fo1" href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Projektowanie wnętrz Riwiera Francuska</a></h1>	
+    <a id="fo1" href="eclairage.shtml">Éclairage</a>
+	<a id="fo1" href="cena.shtml">Cena</a>
+    <a id="fo1" href="painting.shtml">Painting &amp; Sculpture  </a>
+	<a id="fo1" href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a>
+    <a id="fo1" href="stylesen.shtml">Styles</a>
+    <a id="fo1" href="portfoliopl.shtml">Portfolio</a>
+	<a id="fo1" href="nouvelles.shtml">Nouvelles</a>
+ </div>
+
+<a href="#" onclick="opennavigation4('navigation4'); return false"><img src="images/tag-cloud.png" alt="Облако Тегов" 
+title="открыть/закрыть Облако Тегов"
+style="position:relative; float:right; bottom:70px; z-index:1100; width:70px; height:70px; " /></a>
+
+ <script type="text/javascript">
+function opennavigation4(id){
+ display = document.getElementById(id).style.display;
+ if(display=='none'){
+ document.getElementById(id).style.display='block';
+
+}else{
+document.getElementById(id).style.display='none';
+}
+
+}
+
+</script>
+
+
+<!--#include virtual="include/footerru.txt"-->	
+</body>
+</html>

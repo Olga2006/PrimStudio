@@ -1,0 +1,148 @@
+  
+/* txt mission */
+
+#blok1d{
+width:100%;
+height:530px ;
+margin: 0px auto;
+padding:0;
+text-align: center;
+}
+
+
+#blok1b{
+width:31%;
+height:350px;
+padding:7px;
+float:left;
+
+}
+
+/* txt whyPS */
+
+#blok1a{
+width:100%;
+height:700px ;
+margin: 0px auto;
+padding:0;
+text-align: center;
+}
+
+#blok1c{
+width:21%;
+height:420px;
+padding:15px;
+float:left;
+}
+
+
+
+
+    
+/* Для отображения на устройствах меньше 980px*/    
+
+ @media screen and (min-width:240px) and (max-width:420px) {   
+
+
+
+#blok1c{
+width:95%;
+height:140px;
+padding:5px;
+
+}
+
+#blok1a{
+width:100%;
+height:720px ;
+
+}
+#blok1b{
+width:95%;
+height:150px;
+padding:5px;
+float:left;
+}  
+ 
+#blok1d{
+height:600px ;
+}
+
+ }
+   
+@media screen and (min-width:419px) and (max-width:619px) { 
+
+#blok1c{
+width:95%;
+height:170px;
+padding:5px;
+
+}
+
+#blok1a{
+width:100%;
+height:870px ;
+
+}
+#blok1b{
+width:95%;
+height:160px;
+padding:5px;
+float:left;
+}  
+ 
+#blok1d{
+height:660px ;
+}
+
+
+        }
+        
+        
+         
+@media screen and (min-width:620px) and (max-width:1000px) {
+
+#blok1c{
+width:95%;
+height:170px;
+padding:5px;
+}
+
+#blok1a{
+width:100%;
+height:890px ;
+}
+
+  
+#blok1b{
+width:97%;
+height:165px;
+padding:7px;
+float:left;
+}  
+ 
+#blok1d{
+height:695px ;
+}
+        }
+         
+         
+         
+@media screen and (min-width:999px) and (max-width:1250px) {
+
+	
+  #blok1c{
+width:20.3%;
+
+}   
+#blok1b{
+width:30%;
+height:290px;
+padding:7px;
+float:left;
+}  
+ 
+#blok1d{
+height:530px ;
+}
+        }

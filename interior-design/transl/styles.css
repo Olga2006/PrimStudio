@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ 
+html {
+    height: 100%;
+}
+ 
+header, nav, section, main, article, aside, footer {
+    display: block;
+	
+}
+ 
+body {
+    height: 100%;
+    width: 100%;
+    background: #fefefe;
+}
+ 
+.maxw {
+    margin: 0 auto;
+    min-width: 240px;
+    max-width: 1920px;
+	border:1px solid red;
+	
+}
+ 
+header {
+    min-width: 240px;
+    width: 100%;
+    height: 670px;
+    background: #fefefe;
+}
+ 
+#wr {
+    position: relative;
+    margin: 0 auto;
+    height: auto !important;
+    height: 100%;
+    /*min-height: 100%;  -  Нужно для прижатия футера к низу*/
+    padding: 5px 0;
+}
+ 
+.section {
+    width: 100%;
+    padding: 0 0 220px;
+    position: relative;
+}
+ 
+.section:after {
+    content: '';
+    clear: both;
+    display: table;
+}
+ 
+.mainwrap {
+    width: 100%;
+    float: left;
+    overflow: hidden;
+}
+ 
+main {
+    padding: 10px 20px 10px 20px;
+	width: 75%;
+    min-height: 350px;
+	 margin: 0 auto;
+	border:1px solid red;
+}
+ 
+
+ 
+footer {
+    margin: -220px auto 0;
+    width: 100%;
+    min-width: 240px;
+    height: 220px;
+    background: #696969;
+    position: relative;
+	border:1px solid red;
+}
+
+
+#flag{
+position: relative;
+top:550px;
+float:right;
+border:1px solid red;
+}
+a#flagt:hover{
+color:#E6E6FA;
+text-decoration:underline;
+}
+a#flagt{
+color:black;
+text-decoration:none;
+}
+#flagplb,#flagrub,#flagfrb,#flagenb{
+width:40px;
+height:50px;
+margin:5px;
+float:right;
+font:12px verdana,sans-serif;
+text-align:center;
+color:black;
+}
+#flagplm{
+background:url(flagpl.jpg) no-repeat;
+width:40px;
+height:24px;
+}
+#flagrum{
+background:url(flagru.jpg) no-repeat;
+width:40px;
+height:24px;
+}
+#flagfrm{
+background:url(flagfr.jpg) no-repeat;
+width:40px;
+height:24px;
+}
+#flagenm{
+background:url(flagen.jpg) no-repeat;
+width:40px;
+height:24px;
+}
+
+#blok1a{
+border:1px solid red;
+width:330px;
+height:230px;
+float:left;
+padding:15px;
+}
+
+#blok1b{
+border:1px solid red;
+width:1000px;
+text-align: center;
+padding:15px;
+}
+
+p#first{
+font:700 20px verdana,sans-serif;
+text-align: center;
+color:#696969;
+}
+p#second{
+font:500 17px verdana,sans-serif;
+text-align: center;
+color:#696969;
+}
+
+
+
+
+
+#footer{
+
+position: relative;
+top:0px;
+background:#696969;
+width:100%;
+height:50px;
+color:white;
+}
+#footertxt{
+color:white;
+font:400 12px verdana,sans-serif;
+text-align: center;
+position:relative;
+top:15px;
+}
+#share-buttons{
+text-align:left;
+float:left;
+margin:5px;
+}
+#callbutton{
+float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#ex a:hover{
+border:1px solid red;
+background:url(step1.jpg) no-repeat white;
+width:200px;
+height:150px;
+
+font:400 12px verdana,sans-serif;
+color:white;
+text-decoration:underline;
+display:block;
+line-height:0.2em;
+text-align:left; 
+text-align:right; 
+
+position:relative;
+left:20%;
+top:-10px;
+
+float:left;
+margin-left:190px;
+padding-top:30px;
+margin:10px;
+padding:15px 50px;
+z-index:2;
+visibility:hidden;
+}
+
+
+
+
+
+
+

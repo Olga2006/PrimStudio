@@ -1,0 +1,212 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+<title>PrimStudio | Careers - Find out about career opportunities at PrimStudio</title>
+
+ <meta name="description" content="Careers - Find out about career opportunities, jobs and the work environment at PrimStudio"/>
+ <meta name="keywords" content="Careers"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+   <!--[if IE]><link rel="stylesheet" type="text/css" href="http://primstudio.net/css/not-ie.css" /><![endif]-->  	
+<link rel="stylesheet"type="text/css" href="http://primstudio.net/css/styleall.css"/>
+
+  <link rel="shortcut icon" href="http://primstudio.net/images/favicon.png" type="image/png"/>
+   
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66344442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31954036 = new Ya.Metrika({
+                    id:31954036,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->
+</head>
+  <body>
+  
+  
+<header>
+
+
+ <img src="http://primstudio.net/images/carriere-a-primstudio.jpg" alt="Career at PrimStudio" 
+title="Career at PrimStudio" style="position: absolute; right:0px; top:60px; width:1000px;  min-width: 320px; height: 500px;" />
+ 
+
+ 
+	<!--#include virtual="include/menuen.txt"-->
+	
+
+<div id="flag">
+<div id="flagcont">
+<a href="http://primstudio.net/projektowanie-wnetrz/kariera.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Projektant wnętrz Francja" title="Projektant wnętrz Francja" src="http://primstudio.net/images/flagpl.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/projektowanie-wnetrz/kariera.shtml">PL</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/дизайн-интерьера/карьера.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Дизайнер интерьера во Франции" title="Дизайнер интерьера во Франции" src="http://primstudio.net/images/flagru.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/дизайн-интерьера/карьера.shtml">RU</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/conception-interieur/carrieres.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Décoratrice d'intérieur Cote d'Azur 06" title="Décoratrice d'intérieur Cote d'Azur 06" src="http://primstudio.net/images/flagfr.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/conception-interieur/carrieres.shtml">FR</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/interior-design/careers.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Interior designer France" title="Interior designer France" src="http://primstudio.net/images/flagen.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/interior-design/careers.shtml">EN</a>
+</div>
+</a>
+</div>	</div>			
+
+ <div id="pagename">	
+<p id="firsthead">
+Careers </p>
+	</div>	
+<div id="icon">	</div>	
+
+ </header>
+ <style>
+ #blok1d{
+width:100%;
+height:410px ;
+margin: 0px auto;
+padding:0;
+text-align: center;
+}
+    
+/* Для отображения на устройствах меньше 980px*/    
+
+ @media screen and (min-width:240px) and (max-width:420px) {   
+#blok1d{
+height:410px;
+}}
+ 
+@media screen and (min-width:419px) and (max-width:619px) { 
+#blok1d{
+height:460px ;
+}} 
+      
+@media screen and (min-width:620px) and (max-width:1000px) {
+#blok1d{
+height:450px ;
+}}
+   
+@media screen and (min-width:999px) and (max-width:1250px) {
+#blok1d{
+height:400px ;
+}}
+
+</style>
+
+
+
+ 
+ <main >
+
+  <div id="blokgray">
+ <div id="blok1"><br><br>
+  <div id="blok1d">
+<p id="firstc"> Become part of PrimStudio International and multilingual...</p>	 
+<br><br><br><br>
+
+ <p id="secondc"> 
+We’re committed to the exchange of ideas and the benefits of a synergistic relationship between our organization, 
+designers and clients and provide ongoing training opportunities for our designers. <br> We are inspired when our team is learning, growing and inspiring others - apply today.
+</p><br>
+<p id="secondc"> 
+We’re always looking for talented design professionals. <br>
+If you are an interior designer with at least 3-5 years of related experience and are interested in working in a collaborative,
+ creative and fast-paced organization, we’d love to hear from you today!</p><br>
+<p id="secondc"> 
+If you’re interested in applying for, please forward your resume along with a great cover letter and portfolio information 
+</p>
+</div>
+<div id="blok4">
+<br><br><br>
+<p id="firstc">YOU ARE INTERESTED FOR APPLYING </p> <br>
+ <br><br>
+</div>
+</div>
+</div>
+
+</main>
+
+
+
+<!--#include virtual="include/footeren.txt"-->
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

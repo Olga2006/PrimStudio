@@ -1,0 +1,617 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+
+<title>Interior Design in Monaco Nice Cannes Saint-Tropez - Your interior designer of the luxury home, Office, commercial real estate on the French Riviera</title>
+		
+<meta name="description" content="PrimStudio Interior Design offers a full design service, House Decoration for high end properties, villas, apartments and commercial real estate in the South of France"/>
+
+<meta name="keywords" content="interior design monaco nice cannes, south of france, residential, office, commercial, interior design service on the french riviera"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+   <!--[if IE]><link rel="stylesheet" type="text/css" href="not-ie.css" /><![endif]-->  
+<link rel="stylesheet"type="text/css" href="styleall.css"/>
+<link rel="stylesheet"type="text/css" href="styleinterior.css"/>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+
+
+
+  <link rel="shortcut icon" href="images/favicon.png" type="image/png"/>
+  
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66344442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31954036 = new Ya.Metrika({
+                    id:31954036,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->
+</head>
+
+
+<body>
+
+<header>
+
+  <div id="content">
+            <ul class="accordion" id="accordion">
+			
+	
+				
+					  <li class="bg3 bleft">
+                    <div class="heading">COMMERCIAL INTERIOR DESIGN </div>
+                    <div class="bgDescription"></div>
+                    <div class="description">
+									   <p > Don't be surprised if walking into the latest restorant or hotel by PrimStudio feels like stepping into another time and place.</p> 
+                  <h1>COMMERCIAL INTERIOR DESIGN </h1> 
+
+                    </div>
+                </li>
+			
+					
+              <li class="bg2 bleft">
+                    <div class="heading">OFFICE INTERIOR DESIGN</div>
+                    <div class="bgDescription"></div>
+                    <div class="description"><br><br>
+					<p>We design interior spaces for living and working... </p> 
+                      <h1> OFFICE INTERIOR DESIGN</h1> 
+                    </div>
+                </li>
+				
+				
+			    <li class="bg1 bleft">
+                    <div class="heading">RESIDENTIAL INTERIOR DESIGN</div>
+                    <div class="bgDescription"></div>
+
+                    <div class="description"><br><br>
+		
+									<p>Transform your life by enhancing your interior...</p> 
+                     <h1> RESIDENTIAL INTERIOR DESIGN</h1> 
+                    </div>
+                </li>
+				    </ul>
+        </div>
+				
+				
+	
+
+        <!-- The JavaScript -->
+    
+        <script type="text/javascript">
+            $(function() {
+                $('#accordion > li').hover(
+                    function () {
+                        var $this = $(this);
+                        $this.stop().animate({'width':'350px'},500);
+                        $('.heading',$this).stop(true,true).fadeOut();
+                        $('.bgDescription',$this).stop(true,true).slideDown(500);
+                        $('.description',$this).stop(true,true).fadeIn();
+                    },
+                    function () {
+                        var $this = $(this);
+                        $this.stop().animate({'width':'130px'},1000);
+                        $('.heading',$this).stop(true,true).fadeIn();
+                        $('.description',$this).stop(true,true).fadeOut(500);
+                        $('.bgDescription',$this).stop(true,true).slideUp(700);
+                    }
+                );
+            });
+        </script>
+
+<!--#include virtual="include/menuen.txt"-->
+<div class="description">
+		<body onload="allClose()">
+		<div id="menu_left">
+		<ul id="menu">
+  <li><a href="#" onclick="openMenu(this);return false"><img src="images/menu.jpg" alt="menu"  title="open/close the menu" /></a>
+
+    <ul id="nav_left">
+	 <div id="menuback" >
+	
+							<li><a href="interior-design-french-riviera-ru.shtml">Home </a></li>
+					
+                        <li><a href="#" onclick="openMenu(this);return false">About ...</a>
+                            <ul>
+                                <li><a href="russian-interior-designer-france.shtml">Why PrimStudio</a></li>
+                                <li><a href="nice-interior-design-ru.shtml">Mission</a></li>
+                                <li><a href="steps.shtml">Project steps</a></li>
+								<li><a href="stylesen.shtml">The main styles</a></li>
+                                <li><a href="price.shtml">Price</a></li>
+                             </ul>       
+                        </li>                                              
+  
+                        
+                        <li><a href="#" onclick="openMenu(this);return false" >Design ...</a>
+                            <ul>
+                                <li ><a href="monaco-interior-design-ru.shtml">Interior design</a></li>
+                                <li><a href="furniture.shtml">Furniture design</a></li>
+                                <li><a href="landscape-design-french-riviera-ru.shtml">Garden design</a></li>    
+							    <li><a href="portfolioen.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                        
+                       
+					<li><a href="#" onclick="openMenu(this);return false" >Furnishings ...</a>
+						  <ul>
+						        <li><a href="italian-luxury-furniture-france-ru.shtml ">Luxury furniture</a>	</li>
+                                <li><a href="painting.shtml">Painting &amp; Sculpture</a></li>    
+							    <li><a href="lighting.shtml">Lighting</a></li>
+					       </ul>
+					  </li>
+						
+						
+                        <li><a href="cannes-interior-designer-ru.shtml">Contact</a></li>
+		
+</div>
+   </ul>
+ </li>
+</ul>
+</div>
+ </body>	
+
+  <style>
+   li {
+    list-style-type: none; /* Убираем маркеры */
+
+  </style>
+	 <script type="text/javascript">
+	 function openMenu(node){
+	var subMenu = node.parentNode.getElementsByTagName("ul")[0];
+	subMenu.style.display == "none" ? subMenu.style.display = "block" : subMenu.style.display = "none";
+}
+function allClose(){
+	var list = document.getElementById("menu").getElementsByTagName("ul");
+	for(var i=0;i<list.length;i++){
+		list[i].style.display = "none";
+	}
+}
+
+	 
+	 </script>
+			
+			<div id="menu_div">
+            <div id="navigation">
+                <div id="menu">
+                    <ul id="nav">
+					
+						<li><a href=" interior-design-french-riviera-ru.shtml">Home </a></li>
+					
+                        <li><a href="#">About</a>
+                            <ul>
+                                <li><a href="russian-interior-designer-france.shtml">Why PrimStudio</a></li>
+                                <li><a href="nice-interior-design-ru.shtml">Mission</a></li>
+                                <li><a href="steps.shtml">Project steps</a></li>
+								<li><a href="stylesen.shtml">The main styles</a></li>
+                                <li><a href="price.shtml">Price</a></li>
+                             </ul>       
+                        </li>                                              
+  
+                        
+                        <li><a href="#">Design</a>
+                            <ul>
+                                <li ><a href="monaco-interior-design-ru.shtml">Interior design</a></li>
+                                <li><a href="furniture.shtml">Furniture design</a></li>
+                                <li><a href="landscape-design-french-riviera-ru.shtml">Garden design</a></li>    
+							    <li><a href="portfolioen.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                        
+                       
+					<li><a href="#">Furnishings</a>
+						  <ul>
+						        <li><a href="italian-luxury-furniture-france-ru.shtml ">Luxury furniture</a>	</li>
+                                <li><a href="painting.shtml">Painting &amp; Sculpture</a></li>    
+							    <li><a href="lighting.shtml">Lighting</a></li>
+					       </ul>
+					  </li>
+						
+						
+                        <li><a href="cannes-interior-designer-ru.shtml">Contact</a></li>
+                    </ul>
+ 
+					  </div><!-- #menu КОНЕЦ-->	
+ </div>
+ </div><!-- #menu_div КОНЕЦ--> 
+
+</div>
+
+<!--#include virtual="include/menuen.txt"-->
+
+
+	
+<div id="flag">
+<div id="flagcont">
+<a href="monaco-aranzacja-wnetrz.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Projektant wnętrz Francja" title="Projektant wnętrz Francja" src="images/flagpl.jpg"/>
+</div>
+<a id="flagt" href="monaco-aranzacja-wnetrz.shtml">PL</a>
+</div>
+</a>
+
+<a href="монако-дизайн-интерьера.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Дизайнер интерьера во Франции" title="Дизайнер интерьера во Франции" src="images/flagru.jpg"/>
+</div>
+<a id="flagt" href="монако-дизайн-интерьера.shtml">RU</a>
+</div>
+</a>
+
+<a href="monaco-amenagement-d-interieur-ru.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Décoratrice d'intérieur Cote d'Azur 06" title="Décoratrice d'intérieur Cote d'Azur 06" src="images/flagfr.jpg"/>
+</div>
+<a id="flagt" href="monaco-amenagement-d-interieur-ru.shtml">FR</a>
+</div>
+</a>
+
+<a href="monaco-interior-design-ru.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Interior designer France" title="Interior designer France" src="images/flagen.jpg"/>
+</div>
+<a id="flagt" href="monaco-interior-design-ru.shtml">EN</a>
+</div>
+</a>
+</div>	</div>		
+
+ <div id="pagename">	
+<p id="firsthead">
+Interior Design </p>
+	</div>	
+<div id="icon" style="top:370px;
+left:0px;">	</div>	
+	
+  <div id="contents">
+     
+<a id="popup__toggle"><img src="images/ints1.jpg"   alt="Design Project Monaco" title="Design Project Monaco" />  
+ <div id="blok1e">COMMERCIAL<br>INTERIOR DESIGN</div>	
+   </a>
+
+<a id="popup__toggle2"><img src="images/ints2.jpg"  alt="Design Project Nice" title="Design Project Nice" />  
+ <div id="blok1e">OFFICE <br>INTERIOR DESIGN</div>	
+   </a>
+
+<a id="popup__toggle3"><img src="images/ints3.jpg" alt="Design Project Cannes" title="Design Project Cannes" />  
+ <div id="blok1e"> RESIDENTIAL <br>INTERIOR DESIGN </div>	
+   </a>
+
+  	</div>	
+
+
+			
+ </header>
+ 
+
+
+ <main>
+ 
+ <div id="blokgray">
+ <div id="blok1">
+ <div id="blok8">
+ <p id="firstl"> Design is more than just aesthetics. <br>
+ It is a multifaceted, organic process 
+ that influences on every element of your style life and business....</p>  <br>
+ <p id="secondl">From project conception through execution, we work for to help our clients to achieve their desired results.
+ We work with great passion with private interiors (apartments, houses, villas) and
+public spaces (hotels, restaurants, bars, shops, offices) for the account of individuals and professionals.
+
+ </p> 
+ <br><br>
+<div id="blok1a">
+<H1>RESIDENTIAL INTERIOR DESIGN</H1><br>
+
+<div id="blok1c" style=" float:left;">
+ <img  src="images/residential-interior-design.jpg"  alt="Residential Interior Design French Riviera" title="Residential Interior Design French Riviera"   
+ style="float:left;" />
+</div>
+
+
+ <div id="blok1b" style=" float:right;" >
+
+<H3>
+Our aim with every interior design is a creation a space which reflecting your tastes and desires. <br>
+Rigorous attention to detail, we consider every detail of the style you live when planning your space. <br>
+We begin with define plan-view of your space and develop using realistic 3D photo imagery, and concludes with detailed  plans.<br>
+Throughout the process, we work closely with external consultants, lighting and curtain designers, furniture manufacturers, which provide some masterpieces for you.<br>
+You are invited to discover your bespoke interior design across Monaco-Nice-Cannes
+</H3></div>
+</div>
+
+
+	
+
+<div id="blok1a">
+<H1>OFFICE INTERIOR DESIGN</H1>
+
+ <div id="blok1b" style=" float:left;" >
+
+<H3>
+PrimStudio is a leading on the French Riviera interior design  practice specialising in the development of strategies and design solutions for workplaces across a wide variety of 
+industries in the South of France and Monaco.<br>
+Transforming your bureau is our mission statement – we know it takes a pragmatic, visionary, flexible and sustainable approach to maximize the potential of every workspace.<br>
+Unique and exciting work environment with interior design from PrimStudio, for clients and tenants alike, 
+unfailingly achieves measurable results, meets individual business objectives and enhanced workplace performance and productivity...
+ </H3>
+</div>
+
+<div id="blok1c" style=" float:right;">
+ <img  src="images/office-interior-design.jpg" alt="Office Interior Design French Riviera" title="Office Interior Design French Riviera"  style=" float:right;" />
+</div>
+
+</div>
+
+
+<div id="blok1a">
+<H1>COMMERCIAL INTERIOR DESIGN </H1><br>
+<div id="blok1c" style=" float:left;">
+ <img  src="images/commercial-interior-design.jpg" alt="Commercial Interior Design French Riviera" title="Commercial Interior Design French Riviera"  style="  float:left;" />
+</div>
+ <div id="blok1b" style=" float:right;" >
+
+<H3>
+We provide a range of interior design services for commercial real estate, hotels, resorts, restaurants, and lounges on the French Riviera. <br>
+Offering an individual and refreshing approach to interior design where creativity and vision meet the demands of the commercial environment. 
+We recognise that the best results are achieved through a synthesis of concept, beauty and functional integration.<br>
+Slow food, fast food, upscale or informal, dining out—or just cocktails out—should be a memorable experience. 
+ Dynamic and detailed, our designs for these spaces anticipate a wonderful time. <br>
+ So, make reservations…<br>
+ if you haven’t already.
+ </H3> </div>
+</div>			 
+ </div>	
+
+
+
+
+
+
+
+
+<div id="blok4">
+<br><br><br>
+<p id="firstc">YOU HAVE A PROJECT TO DISCUSS? <br>
+WE ARE HERE TO HELP YOU</p> <br>
+ <br><br>
+</div>
+</div>
+	
+</div>
+
+
+
+</main>
+
+
+<!--#include virtual="include/footeren.txt"-->	
+<footer>
+
+
+<div id="blokblack">
+<div id="blok5">
+<a id="blok" href="cannes-interior-designer-ru.shtml#contact">  
+<div id="blok0">
+CONTACT US
+</div>
+</a>
+
+<div id="blok5a"><br>
+<img src="images/primstudio-architecte-interieur.png" alt="PrimStudio Interior Design" 
+title="PrimStudio Interior Design" style="position: absolute; left:0px; top:0px; width:312px; height: 113px;" />
+<br><br><br><br><br><br><br>
+<p id="secondf">  26, Charles de Mouchy street<br>
+ 06210 Mandelieu-la-Napoule<br>
+  France<br>
+Tel. +33630131343<br>
+Email: contact@primstudio.net<br>
+<br></p>
+
+</div>
+
+
+
+
+<div id="blok5b">
+<br><br><br>
+<p id="firstf">
+OVERVIEW </p><br>
+<a id= "fo" href="https://primstudio.wordpress.com/">BLOG</a><br>
+<a id= "fo" href="stylesen.shtml">Review of the styles</a><br>
+<a id="fo" href="steps.shtml">Project steps in the interior</a><br>
+<a id="fo" href="nice-interior-design-ru.shtml">Mission of designer</a><br>
+</div>
+
+<div id="blok5c">
+<br><br><br><br><br>
+
+<a id="fo" href="nice-interior-design-ru.shtml">Mission</a><br>
+<a id="fo" href="russian-interior-designer-france.shtml">Why PrimStudio</a><br>
+<a id="fo" href="steps.shtml">Project steps</a><br>
+<a id="fo" href="stylesen.shtml">Styles</a><br>
+<a id="fo" href="price.shtml">Price</a><br>
+<a id="fo" href="portfolioen.shtml">Portfolio</a><br>
+<a id="fo" href="news.shtml">News</a><br>
+<a id="fo" href="cannes-interior-designer-ru.shtml">Contact</a><br>
+<a id="fo" href="careers.shtml">Careers</a>
+</div>
+
+
+<div id="blok5c">
+<br><br><br>
+<p id="firstf">NAVIGATE </p> <br>
+<a id="fo" href="interior-design-french-riviera-ru.shtml  ">Home</a><br>
+<a id="fo" href="monaco-interior-design-ru.shtml">Interior design</a><br>
+<a id="fo" href="landscape-design-french-riviera-ru.shtml">Garden design</a><br>
+<a id="fo" href="furniture.shtml">Furniture design</a><br>
+<a id="fo" href="italian-luxury-furniture-france-ru.shtml">Luxury furniture</a><br>
+<a id="fo" href="painting.shtml">Painting &amp; Sculpture</a><br>
+<a id="fo" href="lighting.shtml">Lighting</a>
+
+</div>
+
+<div id="share-buttons">
+<!-- Facebook -->
+<a href="http://www.facebook.com/sharer.php?u=http://www.primstudio.net" target="_blank"><img src="images/facebook.png"alt="Facebook" 
+title="PrimStudio Facebook" border="0"/></a>
+ 
+<!-- Twitter -->
+<a href="http://twitter.com/share?url=http://www.primstudio.net&text=I like so much&hashtags=design of interior" target="_blank"><img src="images/twitter.png" 
+alt="Twitter" title="PrimStudio Twitter" border="0" /></a>
+ 
+<!-- Google+ -->
+<a href="https://plus.google.com/share?url=http://www.primstudio.net" target="_blank"><img src="images/google.png" alt="Google" title="PrimStudio Google" border="0"/></a>
+ 
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.primstudio.net" target="_blank"><img src="images/linkedin.png" 
+alt="LinkedIn" title="PrimStudio LinkedIn"  border="0"/></a>
+
+<!-- Email -->
+<a href="mailto:?Subject=Simple Share Buttons&Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://www.primstudio.net"><img src="images/email.png"
+alt="Email" title="PrimStudio Email" border="0" /></a>
+<!-- blog -->
+<a href="https://primstudio.wordpress.com/" target="_blank"> <img src="images/wordpress.png" alt="Wordpress" title="PrimStudio Wordpress" border="0"/></a>
+
+</div>
+
+
+<div id="acro">
+<acronym  title="All rights reserved. No material contained within this website may be reproduced,
+ distributed, modified, transmitted, reused or adapted without the prior written permission of PrinStudio"> 
+ &copy; 2015 PrimStudio DESIGN</acronym>
+</div>
+</div>
+
+</div>
+</footer>
+
+
+<div id="navigation4" style="display: none;">
+<a id="fo1" href="мебель.shtml">Дизайн мебели</a>
+	<a id="fo1" href="carrieres.shtml">Carrières</a>
+	<a id="fo1" href="etapy.shtml">Etapy projektu </a>
+	<a id="fo1" href="style.shtml">Style </a>
+	<a id="fo1" href="meble.shtml">Projektowanie mebli</a>
+    <a id="fo1" href="kariera.shtml">Kariera</a>
+    <a id="fo1" href="furniture.shtml">Furniture design </a>	
+<h3><a id="fo1"  href="landscape-design-french-riviera-ru.shtml">Landscaping Nice</a></h3>
+<h1><a id="fo1" href="italian-luxury-furniture-france-ru.shtml">Italian luxury furniture</a></h1>
+<h3><a id="fo1" href="conception-paysage-cote-d-azur-ru.shtml">Aménagement paysager Alpes Maritimes</a></h3>		
+<h1><a id="fo1" href="interior-design-french-riviera-ru.shtml">Interior Design Monaco</a></h1>
+<h2><a id="fo1" href="cannes-interior-designer-ru.shtml">Contact with designer  </a></h2>
+<h3><a id="fo1" href="nice-interior-design-ru.shtml">Designer in Provence-Alpes-Cote d'Azur </a></h3>	
+<h2><a id="fo1" href="russian-interior-designer-france.shtml">Russian interior designer in France </a></h2>
+<h2><a id="fo1" href="monaco-aranzacja-wnetrz.shtml">Architektura wnętrz Alpes Maritimes Francja</a></h2>	
+    <a id="fo1" href="etapes.shtml">Étapes du projet</a>
+	<a id="fo1" href="portfolio.shtml">Portfolio  </a>
+	<a id="fo1" href="careers.shtml">Careers  </a>	
+	<a id="fo1" href="этапы.shtml">Этапы проекта</a>
+    <a id="fo1" href="lighting.shtml">Lighting </a>	
+	<a id="fo1"  href="steps.shtml">Project steps </a>	
+<h3><a id="fo1" href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн Ницца</a></h3>	
+<h1><a id="fo1" href="conception-d-interieure-cote-d-azur-ru.shtml ">Architecte d'intérieur Côte d'Azur</a></h1>	
+<h3><a id="fo1" href="nice-architecture-d-interieur-ru.shtml">Amenagement interieur Provence-Alpes-Côte d'Azur</a></h3>	
+<h1><a id="fo1" href="дизайн-интерьера-французская-ривьера.shtml">Дизайн Интерьера Французская Ривьера</a></h1>
+<h2><a id="fo1"  href="monaco-interior-design-ru.shtml">Interior design Alpes Maritimes France </a></h2>
+    <a id="fo1" href="портфолио.shtml">Портфолио</a>
+    <a id="fo1" href="освещение.shtml">Освещение</a>	
+	<a id="fo1" href="prix.shtml">Tarif</a>
+    <a id="fo1" href="карьера.shtml">Карьера</a>	
+    <a id="fo1" href="новости.shtml">Новости</a>	
+<h2><a id="fo1" href="монако-дизайн-интерьера.shtml">Дизайн интерьера Альпы Приморские Франция</a></h2>
+<h2><a id="fo1" href="monaco-amenagement-d-interieur-ru.shtml">Architecte d'intérieur Nice</a></h2>
+<h1><a id="fo1" href="итальянская-элитная-мебель.shtml">Элитная итальянская мебель</a></h1>
+<h3><a id="fo1" href="nicea-architektura-wnetrz.shtml">Projektant w Prowansja-Alpy-Lazurowe Wybrzeże</a></h3>	
+<h2><a id="fo1" href="канны-дизайнер-интерьера.shtml">Контакт с дизайнером интерьера в Каннах</a></h2>
+<h1><a id="fo1" href="meubles-luxueux-italien-france-ru.shtml">Meubles design italien luxe</a></h1>
+<h3><a id="fo1" href="ницца-дизайн-интерьера.shtml">Дизайнер в Прованс-Альпы-Лазурный берег</a></h3>
+<h2><a id="fo1" href="русский-дизайнер-интерьера-франция.shtml">Русский Дизайнер Интерьера во Франции</a></h2>
+<h2><a id="fo1" href="projektant-wnetrz-francja.shtml">Architekt wnętrz we Francji</a></h2>	
+<h2><a id="fo1" href="cannes-architecte-d-interieur-ru.shtml">Contact avec l'architecte d'intérieur à Cannes</a></h2>	
+    <a id="fo1" href="styles.shtml">Styles </a>
+    <a id="fo1" href="price.shtml">Price</a>
+    <a id="fo1" href="news.shtml">News </a>
+	<a id="fo1" href="картины-скульптура.shtml">Живопись &amp; Скульптура</a>
+    <a id="fo1" href="цена.shtml">Цена</a>
+	<a id="fo1" href="meubles.shtml">Design de mobilier</a>
+	<a id="fo1" href="peinture-sculpture.shtml">Peinture &amp; Sculpture</a>
+    <a id="fo1" href="nowosci.shtml">Nowości</a>
+    <a id="fo1" href="oswietlenie.shtml">Oświetlenia</a>
+	<a id="fo1" href="portfolioen.shtml">Portfolio </a>
+	<a id="fo1" href="стили.shtml">Стили</a>
+<h1><a id="fo1" href="ekskluzywne-meble-wloskie.shtml">Ekskluzywne Meble włoskie</a></h1>	
+<h2><a id="fo1" href="russe-designer-interieur-france.shtml">Architecte d'intérieur russe en France</a></h2>
+<h2><a id="fo1" href="cannes-architekt-wnetrz.shtml">Kontakt z projektantem wnętrz w Cannes</a></h2>	
+<h3><a id="fo1" href="projektowanie-ogrodow-riviera-francuska.shtml">Aranżacja ogrodów Nicea</a></h3>
+<h1><a id="fo1" href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Projektowanie wnętrz Riwiera Francuska</a></h1>	
+    <a id="fo1" href="eclairage.shtml">Éclairage</a>
+	<a id="fo1" href="cena.shtml">Cena</a>
+    <a id="fo1" href="painting.shtml">Painting &amp; Sculpture  </a>
+	<a id="fo1" href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a>
+    <a id="fo1" href="stylesen.shtml">Styles</a>
+    <a id="fo1" href="portfoliopl.shtml">Portfolio</a>
+	<a id="fo1" href="nouvelles.shtml">Nouvelles</a>
+ </div>
+
+<a href="#" onclick="opennavigation4('navigation4'); return false"><img src="images/tag-cloud.png" alt="Tag Cloud" 
+title="open/close Tag Cloud"
+style="position:relative; float:right; bottom:70px; z-index:1100; width:70px; height:70px; " /></a>
+
+ <script type="text/javascript">
+function opennavigation4(id){
+ display = document.getElementById(id).style.display;
+ if(display=='none'){
+ document.getElementById(id).style.display='block';
+
+}else{
+document.getElementById(id).style.display='none';
+}
+
+}
+
+</script>
+<!--#include virtual="include/footeren.txt"-->	
+
+
+
+</body>
+</html>
+
+

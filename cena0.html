@@ -1,0 +1,1197 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+
+
+<title>PrimStudio | Cena projektu </title>
+ <meta name="description" content="Policzmy koszty projektowania wnętrza"/>
+ <meta name="keywords" content="Cena projektu architektury wnętrza"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+   <!--[if IE]><link rel="stylesheet" type="text/css" href="http://primstudio.net/css/not-ie.css" /><![endif]-->  
+<link rel="stylesheet"type="text/css" href="http://primstudio.net/css/pricestyle.css"/>
+<link rel="stylesheet"type="text/css" href="http://primstudio.net/css/styleall.css"/>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+  <link rel="shortcut icon" href="http://primstudio.net/images/favicon.png" type="image/png"/>
+  
+  <script type="text/javascript"src="http://primstudio.net/js/calc.js"> </script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66344442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31954036 = new Ya.Metrika({
+                    id:31954036,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->
+
+</head>
+
+
+<body>
+
+<header>
+<div id="pagename">	
+<p id="firsthead">
+Cena projektu</p>
+	</div>	
+
+   <div id="contents">
+  
+   
+   
+<a id="popup__toggle"><img src="http://primstudio.net/images/prices4.jpg"   />  
+ <div id="blok1b">projekt krajobrazu</div>	
+   </a>
+
+<div class="popup__overlay">
+    <div class="popup">
+        <a href="#" class="popup__close">X</a>
+    
+							<table id="contentprice" cellpadding="5" cellspacing="7">
+
+<br>
+<tr>
+<td width="200">Całkowita powierzchnia:</td>
+<td width="150"><input type="text" id="ld2land" size="2" value="0" onchange="ld2calc()" />x 100 m<sup>2</sup></td>
+<td width="50"><span id="ld2result_land"></span></td>
+</tr>
+<tr></tr><tr></tr>
+<tr>
+<td width="200">Średni koszt projektowania schematycznego planu 2D</td>
+<td width="50"><span id="ld2result_pricer">0</span> &euro; </td>
+</tr>
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="ld2calc()" value="900" id="ld2type_3d" /></td>
+<td width="50"><span id="ld2result_3d">0</span> &euro;</td>
+ </tr>
+ 
+ 
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="ld2calc()" value="700" id="ld2type_CD" /></td>
+<td width="50"><span id="ld2result_CD">0</span> &euro; </td>
+ </tr>
+
+ <tr>
+<tr>
+<td width="200">Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenie krajobrazu</td>
+<td width="150"><input type="text" id="ld2time1" size="2" value="0" onchange="ld2calc()" /> godzin</td>
+<td width="50"><span id="ld2result_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy pod czas wyboru mebli i elementów dekoracyjnych dla ogrodu</td>
+<td width="150"><input type="text" id="ld2time2" size="2" value="0" onchange="ld2calc()" /> godzin</td>
+<td width="50"><span id="ld2result_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="ld2time3" size="2" value="0" onchange="ld2calc()" /> godzin</td>
+<td width="50"><span id="ld2result_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="ld2time4" size="2" value="0" onchange="ld2calc()" /> godzin</td>
+<td width="50" ><span id="ld2result_time4"></span></td>
+</tr>
+</tr>
+<tr></tr><tr></tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="150"><span id="ld2result_result">0</span> &euro; </td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="150"><span id="ld2result_time">0</span> dni roboczych  </td>
+</tr>
+
+</table>	
+
+      </div>
+</div>
+
+
+<a id="popup__toggle2"><img src="http://primstudio.net/images/prices2.jpg"   />  
+ <div id="blok1b">Pomieszczenia <br>Biurowe<br>Publiczne</div>	
+   </a>
+
+<div class="popup__overlay2">
+    <div class="popup2" >
+        <a href="#" class="popup__close2">X</a>
+    <table id="contentprice" cellpadding="5" cellspacing="5">
+<tr>
+<td width="200">Całkowita powierzchnia pomieszczeń:</td>
+<td width="50"><span id="of2result_S_room">0</span> m<sup>2</sup></td>
+</tr>
+<tr>
+<td width="200">salon wystawowy, salon, sala sprzedaży, biuro, recepcja, sala sądowa, sala konferencyjna, sala spotkań biznesowych, damski (męski) pokój, itp</td>
+<td width="150"><input type="text" id="of2room20" size="3" value="0" onchange="of2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="of2result_room20"></span></td>
+</tr>
+<tr>
+<td width="200">poczekalnia, pokój dla zwiedzających, stołówka, sala szkolna, sala szpital, siłownia, prysznice, itp</td>
+<td width="150"><input type="text" id="of2room17" size="3" value="0" onchange="of2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="of2result_room17"></span></td>
+</tr>
+<tr>
+<td width="200">pokój pracowników, garderoba, szatnia, przymierzalnia, itp</td>
+<td width="150"><input type="text" id="of2room15" size="3" value="0" onchange="of2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="of2result_room15"></span></td>
+</tr>
+<tr>
+<td width="200">pomieszczenie gospodarcze, magazyn, itp</td>
+<td width="150"><input type="text" id="of2room10" size="3" value="0" onchange="of2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="of2result_room10"></span></td>
+</tr>
+<tr>
+<td width="200">Preferowany<a  href="http://primstudio.net/projektowanie-wnetrz/style.shtml" target="_blank">styl</a></td>
+<td width="150"><select onchange="of2calc()" id="of2type_style" size="4">
+<option selected value="4">Minimalizm</option>
+<option  value="5">Nowoczesny</option>
+<option value="5">Modern</option>
+<option value="5">Retro</option>
+<option value="6">Rustic </option>
+<option value="6">Wiejski</option>
+<option value="7">Maverick</option>
+<option value="7">Hightech</option>
+<option value="8">Klasyczny</option>
+<option value="9">Neoklasyczny</option>
+<option value="9">Klasycz.Przemyślenia</option>
+<option value="9">Art Deco</option>
+<option value="12">Barokowy</option>
+<option value="12">Rococo</option>
+</select>
+</td>
+<td width="50"><span id="of2result_style"></span></td>
+</tr>
+<tr>
+<td width="200">Widok z góry</td>
+<td width="150"><select onchange="of2calc()" id="of2type_PV">
+<option selected value="3">Istniejący</option>
+<option value="4">Przebudowa</option>
+<option value="5">Rozbudowa</option>
+<option value="0">Żaden</option>
+</select>
+</td>
+<td width="50"><span id="of2result_PV">0</span> &euro; </td> 
+</tr>
+
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="of2calc()" value="12" id="of2type_3d" /></td>
+<td width="50"><span id="of2result_3d">0</span> &euro;</td>
+ </tr>
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="of2calc()" value="9" id="of2type_CD" /></td>
+<td width="50"><span id="of2result_CD">0</span> &euro; </td>
+ </tr>
+ 
+ <tr>
+<tr>
+<td width="200">Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenia oraz dekoracji wnętrza</td>
+<td width="150"><input type="text" id="of2time1" size="3" value="0" onchange="of2calc()" /> godzin</td>
+<td width="50"><span id="of2result_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy pod czas wyboru mebli i dekoracji</td>
+<td width="150"><input type="text" id="of2time2" size="3" value="0" onchange="of2calc()" /> godzin</td>
+<td width="50"><span id="of2result_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="of2time3" size="3" value="0" onchange="of2calc()" /> godzin</td>
+<td width="50"><span id="of2result_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="of2time4" size="3" value="0" onchange="of2calc()" /> godzin</td>
+<td width="50"><span id="of2result_time4"></span></td>
+</tr>
+</tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="50"><span id="of2result_result">0</span> &euro; </td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="50"><span id="of2result_time">0</span> dni roboczych </td>
+</tr>
+</table>
+
+      </div>
+</div>
+
+<a id="popup__toggle3"><img src="http://primstudio.net/images/prices3.jpg"  />  
+ <div id="blok1b">Restauracja<br>Bar<br>Hotel</div>	
+   </a>
+
+<div class="popup__overlay3">
+    <div class="popup3" >
+        <a href="#" class="popup__close3">X</a>
+  <table id="contentprice" cellpadding="5" cellspacing="5">
+<tr>
+<td width="200">Całkowita powierzchnia pomieszczeń:</td>
+<td width="150"><span id="rest2result_S_room">0</span> m<sup>2</sup></td>
+</tr>
+<tr>
+<td width="200">przedsionek, hol, recepcja, salon, łazienka, pokój damski (męski), sala bilardowa, pokój gier, sala, korytarz, sala konferencyjna, biuro, itp</td>
+<td width="150"><input type="text" id="rest2room20" size="3" value="0" onchange="rest2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="rest2result_room20"></span></td>
+</tr>
+<tr>
+<td width="200">(single / double / twin / twin Hollywood / gabinet / etc), salonik, biblioteka, siłownia, itp</td>
+<td width="150"><input type="text" id="rest2room17" size="3" value="0" onchange="rest2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="rest2result_room17"></span></td>
+</tr>
+<tr>
+<td width="200">pokój pracowników, garderoba, pralnia, itp</td>
+<td width="150"><input type="text" id="rest2room15" size="3" value="0" onchange="rest2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="rest2result_room15"></span></td>
+</tr>
+<tr>
+<td width="200">pomieszczenie gospodarcze, magazyn, garaż, itp</td>
+<td width="150"><input type="text" id="rest2room10" size="3" value="0" onchange="rest2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="rest2result_room10"></span></td>
+</tr>
+<tr>
+<td width="200">Preferowany <a  href="http://primstudio.net/projektowanie-wnetrz/style.shtml" target="_blank"> styl</a> </td>
+<td width="150"><select onchange="rest2calc()" id="rest2type_style"size="4">
+<option selected value="4">Minimalizm</option>
+<option  value="5">Nowoczesny</option>
+<option value="5">Modern</option>
+<option value="5">Retro</option>
+<option value="6">Rustic </option>
+<option value="6">Wiejski</option>
+<option value="7">Maverick</option>
+<option value="7">Hightech</option>
+<option value="8">Klasyczny</option>
+<option value="9">Neoklasyczny</option>
+<option value="9">Klasycz.Przemyślenia</option>
+<option value="9">Art Deco</option>
+<option value="12">Barokowy</option>
+<option value="12">Rococo</option>
+</select>
+</td>
+<td width="50"><span id="rest2result_style"></span></td>
+</tr>
+<tr>
+<td width="200">Widok z góry</td>
+<td width="150"><select onchange="rest2calc()" id="rest2type_PV">
+<option selected value="3">Istniejący</option>
+<option value="4">Przebudowa</option>
+<option value="5">Rozbudowa</option>
+<option value="0">Żaden</option>
+</select>
+</td>
+<td width="50"><span id="rest2result_PV">0</span> &euro; </td> 
+</tr>
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="rest2calc()" value="12" id="rest2type_3d" /></td>
+<td width="50"><span id="rest2result_3d">0</span> &euro;</td>
+ </tr>
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="rest2calc()" value="9" id="rest2type_CD" /></td>
+<td width="50"><span id="rest2result_CD">0</span> &euro; </td>
+ </tr>
+ 
+ <tr>
+<tr>
+<td width="200">Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenia oraz dekoracji wnętrza</td>
+<td width="150"><input type="text" id="rest2time1" size="3" value="0" onchange="rest2calc()" /> godzin</td>
+<td width="50"><span id="rest2result_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy pod czas wyboru mebli i dekoracji</td>
+<td width="150"><input type="text" id="rest2time2" size="3" value="0" onchange="rest2calc()" /> godzin</td>
+<td width="50"><span id="rest2result_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="rest2time3" size="3" value="0" onchange="rest2calc()" /> godzin</td>
+<td width="50"><span id="rest2result_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="rest2time4" size="3" value="0" onchange="rest2calc()" /> godzin</td>
+<td width="50"><span id="rest2result_time4"></span></td>
+</tr>
+</tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="150"><span id="rest2result_result">0</span> &euro; </td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="150"><span id="rest2result_time">0</span> dni roboczych </td>
+</tr>
+</table> 
+
+      </div>
+</div>
+
+
+<a id="popup__toggle4"><img src="http://primstudio.net/images/prices1.jpg"  />  
+ <div id="blok1b">Dom<br>Mieszkania</div>		
+   </a>
+
+<div class="popup__overlay4">
+    <div class="popup4" >
+        <a href="#" class="popup__close4">X</a>
+<table id="contentprice" cellpadding="5" cellspacing="5">
+<tr>
+<td width="200">Całkowita powierzchnia pomieszczeń:</td>
+<td width="150"><span id="h2result_S_room">0</span> m<sup>2</sup></td>
+</tr>
+<br>
+<tr>
+<td width="200">kuchnia, łazienka, hol, korytarz, itp</td>
+<td width="150"><input type="text" id="h2room20" size="3" value="0" onchange="h2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="h2result_room20"></span></td>
+</tr>
+<br>
+<tr>
+<td width="200">pokój dzienny, pokój rodzinny, sypialnia, pokój gościnny, pokój śniadaniowy, jadalnia, biuro w domu, biblioteka, lobby, itp</td>
+<td width="150"><input type="text" id="h2room17" size="3" value="0" onchange="h2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="h2result_room17"></span></td>
+</tr>
+<tr>
+<td width="200">pokój zabaw, sala bilardowa, siłownia domowa, pokój pokojówki, pomywalnia naczyń, przedsionek, garderoba, etc </td>
+<td width="150"><input type="text" id="h2room15" size="3" value="0" onchange="h2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="h2result_room15"></span></td>
+</tr>
+<tr>
+<td width="200">pralnia, magazyn, piwnica win, poddasze, piwnica, spiżarnia, garaż, itp</td>
+<td width="150"><input type="text" id="h2room10" size="3" value="0" onchange="h2calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="h2result_room10"></span></td>
+</tr>
+
+<tr>
+<td width="200">Preferowany <a  href="http://primstudio.net/projektowanie-wnetrz/style.shtml" target="_blank">styl</a></td>
+<td width="150"><select onchange="h2calc()" id="h2type_style"size="4">
+<option selected value="4">Minimalizm</option>
+<option  value="5">Nowoczesny</option>
+<option value="5">Modern</option>
+<option value="5">Retro</option>
+<option value="6">Rustic </option>
+<option value="6">Wiejski</option>
+<option value="7">Maverick</option>
+<option value="7">Hightech</option>
+<option value="8">Klasyczny</option>
+<option value="9">Neoklasyczny</option>
+<option value="9">Klasycz.Przemyślenia</option>
+<option value="9">Art Deco</option>
+<option value="12">Barokowy</option>
+<option value="12">Rococo</option>
+</select>
+</td>
+<td width="50"><span id="h2result_style"></span></td>
+</tr>
+<tr>
+<td width="200">Widok z góry</td>
+<td width="150"><select onchange="h2calc()" id="h2type_PV">
+<option selected value="3">Istniejący</option>
+<option value="4">Przebudowa </option>
+<option value="5">Rozbudowa</option>
+<option value="0">Żaden</option>
+</select>
+</td>
+<td width="50"><span id="h2result_PV">0</span> &euro; </td> 
+</tr>
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="h2calc()" value="12" id="h2type_3d" /></td>
+<td width="50"><span id="h2result_3d">0</span> &euro;</td>
+ </tr>
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="h2calc()" value="9" id="h2type_CD" /></td>
+<td width="50"><span id="h2result_CD">0</span> &euro; </td>
+ </tr>
+
+ <tr>
+<tr>
+<td width="200">Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenia oraz dekoracji wnętrza</td>
+<td width="150"><input type="text" id="h2time1" size="3" value="0" onchange="h2calc()" /> godzin</td>
+<td width="50"><span id="h2result_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy pod czas wyboru mebli i dekoracji</td>
+<td width="150"><input type="text" id="h2time2" size="3" value="0" onchange="h2calc()" /> godzin</td>
+<td width="50"><span id="h2result_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="h2time3" size="3" value="0" onchange="h2calc()" /> godzin</td>
+<td width="50"><span id="h2result_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="h2time4" size="3" value="0" onchange="h2calc()" /> godzin</td>
+<td width="50"><span id="h2result_time4"></span></td>
+</tr>
+</tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="150"><span id="h2result_result">0</span> &euro; </td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="150"><span id="h2result_time">0</span> dni roboczych </td>
+</tr>
+
+</table>
+
+      </div>
+</div>
+
+
+
+
+
+
+  	</div>	   
+	
+<script type="text/javascript">
+p = $('.popup__overlay')
+$('#popup__toggle').click(function() {
+    p.css('display', 'block')
+})
+p.click(function(event) {
+    e = event || window.event
+    if (e.target == this) {
+        $(p).css('display', 'none')
+    }
+})
+
+
+$('.popup__close').click(function() {
+    p.css('display', 'none')
+})
+
+
+p2 = $('.popup__overlay2')
+$('#popup__toggle2').click(function() {
+    p2.css('display', 'block')
+})
+p2.click(function(event2) {
+    e2 = event2 || window.event
+    if (e2.target == this) {
+        $(p2).css('display', 'none')
+    }
+})
+
+
+$('.popup__close2').click(function() {
+    p2.css('display', 'none')
+})
+
+
+p3 = $('.popup__overlay3')
+$('#popup__toggle3').click(function() {
+    p3.css('display', 'block')
+})
+p3.click(function(event3) {
+    e3 = event3 || window.event
+    if (e3.target == this) {
+        $(p3).css('display', 'none')
+    }
+})
+
+
+$('.popup__close3').click(function() {
+    p2.css('display', 'none')
+})
+
+
+p4 = $('.popup__overlay4')
+$('#popup__toggle4').click(function() {
+    p4.css('display', 'block')
+})
+p4.click(function(event4) {
+    e4 = event4 || window.event
+    if (e4.target == this) {
+        $(p4).css('display', 'none')
+    }
+})
+
+
+$('.popup__close4').click(function() {
+    p4.css('display', 'none')
+})
+
+
+</script> 
+  
+  
+
+      <div id="content">
+            <ul class="accordion" id="accordion">
+			
+
+<li class="bg4 bleft">
+						 <div class="heading">projekt krajobrazu</div>	
+						  <div class="bgDescription"></div>
+							<div class="description" id="description" ><br><br>
+	
+						<table id="contentprice" cellpadding="5" cellspacing="7">
+
+<br>
+<tr>
+<td width="200">Całkowita powierzchnia:</td>
+<td width="150"><input type="text" id="ldland" size="2" value="0" onchange="ldcalc()" />x 100 m<sup>2</sup></td>
+<td width="50"><span id="ldresult_land"></span></td>
+</tr>
+<tr></tr><tr></tr>
+<tr>
+<td width="200">Średni koszt projektowania schematycznego planu 2D</td>
+<td width="50"><span id="ldresult_pricer">0</span> &euro; </td>
+</tr>
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="ldcalc()" value="900" id="ldtype_3d" /></td>
+<td width="50"><span id="ldresult_3d">0</span> &euro;</td>
+ </tr>
+ 
+ 
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="ldcalc()" value="700" id="ldtype_CD" /></td>
+<td width="50"><span id="ldresult_CD">0</span> &euro; </td>
+ </tr>
+
+ <tr>
+<tr>
+<td width="200"> Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenie krajobrazu</td>
+<td width="150"><input type="text" id="ldtime1" size="2" value="0" onchange="ldcalc()" /> godzin</td>
+<td width="50"><span id="ldresult_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy pod czas wyboru mebli i elementów dekoracyjnych dla ogrodu</td>
+<td width="150"><input type="text" id="ldtime2" size="2" value="0" onchange="ldcalc()" /> godzin</td>
+<td width="50"><span id="ldresult_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="ldtime3" size="2" value="0" onchange="ldcalc()" /> godzin</td>
+<td width="50"><span id="ldresult_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="ldtime4" size="2" value="0" onchange="ldcalc()" /> godzin</td>
+<td width="50" ><span id="ldresult_time4"></span></td>
+</tr>
+</tr>
+<tr></tr><tr></tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="150"><span id="ldresult_result">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="150"><span id="ldresult_time">0</span> dni roboczych  </td>
+</tr>
+
+</table>						</div>
+                </li>
+
+
+
+
+<li class="bg3 bleft">
+						 <div class="heading">Pomieszczenia<br> Biurowe<br>Publiczne</div>	
+						  <div class="bgDescription"></div>
+							<div class="description" id="description" ><br><br>
+	
+					<table id="contentprice" cellpadding="5" cellspacing="5">
+<tr>
+<td width="200">Całkowita powierzchnia pomieszczeń:</td>
+<td width="50"><span id="ofresult_S_room">0</span> m<sup>2</sup></td>
+</tr>
+<tr>
+<td width="200">salon wystawowy, salon, sala sprzedaży, biuro, recepcja, sala sądowa, sala konferencyjna, sala spotkań biznesowych, damski (męski) pokój, itp</td>
+<td width="150"><input type="text" id="ofroom20" size="3" value="0" onchange="ofcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="ofresult_room20"></span></td>
+</tr>
+<tr>
+<td width="200">poczekalnia, pokój dla zwiedzających, stołówka, sala szkolna, sala szpital, siłownia, prysznice, itp</td>
+<td width="150"><input type="text" id="ofroom17" size="3" value="0" onchange="ofcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="ofresult_room17"></span></td>
+</tr>
+<tr>
+<td width="200">pokój pracowników, garderoba, szatnia, przymierzalnia, itp</td>
+<td width="150"><input type="text" id="ofroom15" size="3" value="0" onchange="ofcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="ofresult_room15"></span></td>
+</tr>
+<tr>
+<td width="200">pomieszczenie gospodarcze, magazyn, itp</td>
+<td width="150"><input type="text" id="ofroom10" size="3" value="0" onchange="ofcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="ofresult_room10"></span></td>
+</tr>
+
+
+<tr>
+<td width="200">Preferowany <a  href="http://primstudio.net/projektowanie-wnetrz/style.shtml" target="_blank"> styl</a></td>
+<td width="150"><select onchange="ofcalc()" id="oftype_style" size="4">
+<option selected value="4">Minimalizm</option>
+<option  value="5">Nowoczesny</option>
+<option value="5">Modern</option>
+<option value="5">Retro</option>
+<option value="6">Rustic </option>
+<option value="6">Wiejski</option>
+<option value="7">Maverick</option>
+<option value="7">Hightech</option>
+<option value="8">Klasyczny</option>
+<option value="9">Neoklasyczny</option>
+<option value="9">Klasycz.Przemyślenia</option>
+<option value="9">Art Deco</option>
+<option value="12">Barokowy</option>
+<option value="12">Rococo</option>
+</select>
+</td>
+<td width="50"><span id="ofresult_style"></span></td>
+</tr>
+<tr>
+<td width="200">Widok z góry</td>
+<td width="150"><select onchange="ofcalc()" id="oftype_PV">
+<option selected value="3">Istniejący</option>
+<option value="4">Przebudowa </option>
+<option value="5">Rozbudowa</option>
+<option value="0">Żaden</option>
+</select>
+</td>
+<td width="50"><span id="ofresult_PV">0</span> &euro; </td> 
+</tr>
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="ofcalc()" value="12" id="oftype_3d" /></td>
+<td width="50"><span id="ofresult_3d">0</span> &euro;</td>
+ </tr>
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="ofcalc()" value="9" id="oftype_CD" /></td>
+<td width="50"><span id="ofresult_CD">0</span> &euro;</td>
+ </tr>
+
+ <tr>
+<tr>
+<td width="200">Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenia oraz dekoracji wnętrza</td>
+<td width="150"><input type="text" id="oftime1" size="3" value="0" onchange="ofcalc()" /> godzin</td>
+<td width="50"><span id="ofresult_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy pod czas wyboru mebli i dekoracji</td>
+<td width="150"><input type="text" id="oftime2" size="3" value="0" onchange="ofcalc()" /> godzin</td>
+<td width="50"><span id="ofresult_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="oftime3" size="3" value="0" onchange="ofcalc()" /> godzin</td>
+<td width="50"><span id="ofresult_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="oftime4" size="3" value="0" onchange="ofcalc()" /> godzin</td>
+<td width="50"><span id="ofresult_time4"></span></td>
+</tr>
+</tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="50"><span id="ofresult_result">0</span> &euro; </td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="50"><span id="ofresult_time">0</span> dni roboczych </td>
+</tr>
+</table>				</div>
+                </li>		
+								
+		
+<li class="bg2 bleft">
+						 <div class="heading">Restauracja<br>Bar<br>Hotel</div>	
+						  <div class="bgDescription"></div>
+							<div class="description" id="description" ><br><br>
+	
+					<table id="contentprice" cellpadding="5" cellspacing="5">
+<tr>
+<td width="200">Całkowita powierzchnia pomieszczeń:</td>
+<td width="150"><span id="restresult_S_room">0</span> m<sup>2</sup></td>
+</tr>
+<tr>
+<td width="200">przedsionek, hol, recepcja, salon, łazienka, pokój damski (męski), sala bilardowa, pokój gier, sala, korytarz, sala konferencyjna, biuro, itp</td>
+<td width="150"><input type="text" id="restroom20" size="3" value="0" onchange="restcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="restresult_room20"></span></td>
+</tr>
+<tr>
+<td width="200">(single / double / twin / twin Hollywood / gabinet / etc), salonik, biblioteka, siłownia, itp</td>
+<td width="150"><input type="text" id="restroom17" size="3" value="0" onchange="restcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="restresult_room17"></span></td>
+</tr>
+<tr>
+<td width="200">pokój pracowników, garderoba, pralnia, itp</td>
+<td width="150"><input type="text" id="restroom15" size="3" value="0" onchange="restcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="restresult_room15"></span></td>
+</tr>
+<tr>
+<td width="200">pomieszczenie gospodarcze, magazyn, garaż, itp</td>
+<td width="150"><input type="text" id="restroom10" size="3" value="0" onchange="restcalc()" /> m<sup>2</sup></td>
+<td width="50"><span id="restresult_room10"></span></td>
+</tr>
+<tr>
+<td width="200">Preferowany <a  href="http://primstudio.net/projektowanie-wnetrz/style.shtml" target="_blank">styl</a></td>
+<td width="150"><select onchange="restcalc()" id="resttype_style"size="4">
+<option selected value="4">Minimalizm</option>
+<option  value="5">Nowoczesny</option>
+<option value="5">Modern</option>
+<option value="5">Retro</option>
+<option value="6">Rustic </option>
+<option value="6">Wiejski</option>
+<option value="7">Maverick</option>
+<option value="7">Hightech</option>
+<option value="8">Klasyczny</option>
+<option value="9">Neoklasyczny</option>
+<option value="9">Klasycz.Przemyślenia</option>
+<option value="9">Art Deco</option>
+<option value="12">Barokowy</option>
+<option value="12">Rococo</option>
+</select>
+</td>
+<td width="50"><span id="restresult_style"></span></td>
+</tr>
+<tr>
+<td width="200">Widok z góry</td>
+<td width="150"><select onchange="restcalc()" id="resttype_PV">
+<option selected value="3">Istniejący</option>
+<option value="4">Przebudowa</option>
+<option value="5">Rozbudowa</option>
+<option value="0">Żaden</option>
+</select>
+</td>
+<td width="50"><span id="restresult_PV">0</span> &euro;</td> 
+</tr>
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="restcalc()" value="12" id="resttype_3d" /></td>
+<td width="50"><span id="restresult_3d">0</span>&euro;</td>
+ </tr>
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="restcalc()" value="9" id="resttype_CD" /></td>
+<td width="50"><span id="restresult_CD">0</span> &euro;</td>
+ </tr>
+
+ <tr>
+<tr>
+<td width="200"> Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenia oraz dekoracji wnętrza</td>
+<td width="150"><input type="text" id="resttime1" size="3" value="0" onchange="restcalc()" /> godzin</td>
+<td width="50"><span id="restresult_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy pod czas wyboru mebli i dekoracji</td>
+<td width="150"><input type="text" id="resttime2" size="3" value="0" onchange="restcalc()" /> godzin</td>
+<td width="50"><span id="restresult_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="resttime3" size="3" value="0" onchange="restcalc()" /> godzin</td>
+<td width="50"><span id="restresult_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="resttime4" size="3" value="0" onchange="restcalc()" /> godzin</td>
+<td width="50"><span id="restresult_time4"></span></td>
+</tr>
+</tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="150"><span id="restresult_result">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="150"><span id="restresult_time">0</span> dni roboczych </td>
+</tr>
+</table>				</div>
+                </li>		
+
+					<li class="bg1 bleft">
+						 <div class="heading">Dom<br>Mieszkania</div>	
+						  <div class="bgDescription"></div>
+							<div class="description" id="description" >
+	
+					<table id="contentprice" cellpadding="5" cellspacing="5">
+<tr>
+<td width="200">Całkowita powierzchnia pomieszczeń:</td>
+<td width="150"><span id="result_S_room">0</span> m<sup>2</sup></td>
+</tr>
+<br>
+<tr>
+<td width="200">kuchnia, łazienka, hol, korytarz, itp</td>
+<td width="150"><input type="text" id="room20" size="3" value="0" onchange="calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="result_room20"></span></td>
+</tr>
+<br>
+<tr>
+<td width="200">pokój dzienny, pokój rodzinny, sypialnia, pokój gościnny, pokój śniadaniowy, jadalnia, biuro w domu, biblioteka, lobby, itp</td>
+<td width="150"><input type="text" id="room17" size="3" value="0" onchange="calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="result_room17"></span></td>
+</tr>
+<tr>
+<td width="200">pokój zabaw, sala bilardowa, siłownia domowa, pokój pokojówki, pomywalnia naczyń, przedsionek, garderoba, etc </td>
+<td width="150"><input type="text" id="room15" size="3" value="0" onchange="calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="result_room15"></span></td>
+</tr>
+<tr>
+<td width="200">pralnia, magazyn, piwnica win, poddasze, piwnica, spiżarnia, garaż, itp</td>
+<td width="150"><input type="text" id="room10" size="3" value="0" onchange="calc()" /> m<sup>2</sup></td>
+<td width="50"><span id="result_room10"></span></td>
+</tr>
+
+<tr>
+<td width="200">Preferowany <a  href="http://primstudio.net/projektowanie-wnetrz/style.shtml" target="_blank">styl</a></td>
+<td width="150"><select onchange="calc()" id="type_style"size="4">
+<option selected value="4">Minimalizm</option>
+<option  value="5">Nowoczesny</option>
+<option value="5">Modern</option>
+<option value="5">Retro</option>
+<option value="6">Rustic </option>
+<option value="6">Wiejski</option>
+<option value="7">Maverick</option>
+<option value="7">Hightech</option>
+<option value="8">Klasyczny</option>
+<option value="9">Neoklasyczny</option>
+<option value="9">Klasycz.Przemyślenia</option>
+<option value="9">Art Deco</option>
+<option value="12">Barokowy</option>
+<option value="12">Rococo</option>
+</select>
+</td>
+<td width="50"><span id="result_style"></span></td>
+</tr>
+<tr>
+<td width="200">Widok z góry</td>
+<td width="150"><select onchange="calc()" id="type_PV">
+<option selected value="3">Istniejący</option>
+<option value="4">Przebudowa </option>
+<option value="5">Rozbudowa</option>
+<option value="0">Żaden</option>
+</select>
+</td>
+<td width="50"><span id="result_PV">0</span>&euro;</td> 
+</tr>
+<tr>
+<td width="200">Wizualizacja 3D</td>
+<td width="150"><input type="checkbox" onchange="calc()" value="12" id="type_3d" /></td>
+<td width="50"><span id="result_3d">0</span>&euro;</td>
+ </tr>
+ <tr>
+<td width="200">Dokumentacja budownicza</td>
+<td width="150"><input type="checkbox" onchange="calc()" value="9" id="type_CD" /></td>
+<td width="50"><span id="result_CD">0</span>&euro;</td>
+ </tr>
+ 
+ <tr>
+<tr>
+<td width="200">Jeśli potrzebna jest tylko rada <br>Podaj średni czas:</td>
+</tr>
+<tr>
+<td width="200">Rady dla urządzenia oraz dekoracji wnętrza</td>
+<td width="150"><input type="text" id="time1" size="3" value="0" onchange="calc()" /> godzin</td>
+<td width="50"><span id="result_time1"></span></td>
+</tr>
+<tr>
+<td width="200">Dla zamówienia urządzeń wykończenia i meble</td>
+<td width="150"><input type="text" id="time2" size="3" value="0" onchange="calc()" /> godzin</td>
+<td width="50"><span id="result_time2"></span></td>
+</tr>
+<tr>
+<td width="200">Pomocy w wyborze materiałów</td>
+<td width="150"><input type="text" id="time3" size="3" value="0" onchange="calc()" /> godzin</td>
+<td width="50"><span id="result_time3">0</span> &euro;</td>
+</tr>
+<tr>
+<td width="200">Czas jazdy do placu budowy od Mandelieu-la-Napoule</td>
+<td width="150"><input type="text" id="time4" size="3" value="0" onchange="calc()" /> godzin</td>
+<td width="50"><span id="result_time4"></span></td>
+</tr>
+</tr>
+<tr>
+<td width="200">Średni koszt projektu*</td>
+<td width="150"><span id="result_result">0</span>&euro;</td>
+</tr>
+<tr>
+<td width="200">Średni czas realizacji projektu*</td>
+<td width="150"><span id="result_time">0</span> dni roboczych </td>
+</tr>
+
+</table>			</div>
+                </li>
+
+				
+				    </ul>
+        </div>
+				
+	
+
+        <!-- The JavaScript -->
+    
+       <script type="text/javascript" id="level1">
+            $(function() {
+                $('#accordion > li').hover(
+                    function () {
+                        var $this = $(this);
+                        $this.stop().animate({'width':'450px'},500);
+                        $('.heading',$this).stop(true,true).fadeOut();
+                        $('.bgDescription',$this).stop(true,true).slideDown(500);
+                        $('.description',$this).stop(true,true).fadeIn();
+                    },
+                    function () {
+                        var $this = $(this);
+                        $this.stop().animate({'width':'150px'},1000);
+                        $('.heading',$this).stop(true,true).fadeIn();
+                        $('.description',$this).stop(true,true).fadeOut(500);
+                        $('.bgDescription',$this).stop(true,true).slideUp(700);
+                    }
+                );
+            });
+        </script>
+			
+
+ 
+ 
+		
+<!--#include virtual="include/menupl.txt"-->
+ 
+				
+<div id="flag">
+<div id="flagcont">
+<a href="http://primstudio.net/projektowanie-wnetrz/cena.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Cena projektu" title="Cena projektu" src="http://primstudio.net/images/flagpl.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/projektowanie-wnetrz/cena.shtml">PL</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/дизайн-интерьера/цена.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Цена проекта интерьера" title="Цена проекта интерьера" src="http://primstudio.net/images/flagru.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/дизайн-интерьера/цена.shtml">RU</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/conception-interieur/prix.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Prix du projet d'intérieur" title="Prix du projet d'intérieur" src="http://primstudio.net/images/flagfr.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/conception-interieur/prix.shtml">FR</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/interior-design/price.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Price of the project" title="Price of the project" src="http://primstudio.net/images/flagen.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/interior-design/price.shtml">EN</a>
+</div>
+</a>
+</div>	</div>
+
+
+<div id="icon" style="top:370px;
+left:0px;">	</div>		
+	
+ </header>
+
+ 
+
+
+ <main>
+
+ <div id="blokgray">
+ <div id="blok1">
+  <div id="blok1a">
+<p id="firstl"style=" background:rgba(207,207,205, 0.7); width:65%;position: relative; font-family:Century Gothic; "> Projekt wnętrza zwiększa<br>
+wartość domu...</p>	 
+<br><br>
+  <div id="blok1c"></div>
+<p id="secondl">Nie ma czegoś takiego jak &laquo;typowy projekt&raquo;.<br>
+Każdy z nich jest tak wyjątkowy i unikalny.<br>
+Dlatego jest to bardzo trudne wprowadzić stalą opłate do projektów.
+Na różnych etapach naszej pracy mamy różne metody liczenia opłaty.
+Podzieliliśmy cały projekt na<a  id="mains" href="http://primstudio.net/projektowanie-wnetrz/etapy.shtml#stepsall"> 8 etapów</a>, 
+więc Państwo mogą wybrać to, co chcą zaufać nam i co preferują zrealizować samodzielnie.</p>
+<br><br>
+
+
+<h2  style="font-family:Century Gothic;" >NASZE USŁUGI</h2><br><br>
+
+<h2  style="font-family:Century Gothic;" >KONSULTACJE DEKOROWANIA </h2><br>
+
+<h3>&#9658;	Konsultacje w organizacji wnętrza</h3>
+<h3>&#9658;	Pomoc w wyborze mebli i dekoracji</h3> 
+<h3>&#9658;	Pomoc w wyborze materiałów wykończenia </h3> 
+ <h4><i>Cena*: 80 &euro; (bez VAT)/g, 250&euro; (bez VAT)/pół dnia, 400&euro; (bez VAT)/dzień</i></h4>
+<i>(Stawka jest obliczana dla obiekta w zasęgu 50 km od Mandelieu-la-Napoule, poza: opłata w wysokości  50&euro; za godzinę jazdy)</i><br><br><br>
+
+<h2  style="font-family:Century Gothic;" >PROJEKT WNĘTRZA  </h2><br>
+
+<h3>1. SPOTKANIE WPROWADZAJĄCE </h3><br>
+<h3>2. BADANIE STANU OBJEKTU </h3>
+<h3>&#9658; Określenie stanu początkowego obiektu</h3> 
+<h3>&#9658; Pomiary pomieszczeń</h3> 
+<h3>&#9658; Plan 2D</h3> <br>
+<h3>3. OSTATECZNY PROJEKT</h3>
+<h3>&#9658; Rysunki planowania pomieszczeń</h3> 
+<h3>&#9658; Wizualizacja 3D</h3> 
+<h3>&#9658; Dokumentacja budownicza (plan przebudowy / rozszerzeń, oświetlenia, podłóg / ścian / sufitów, stolarki, ...)</h3> 
+<h3>&#9658; Specyfikacja materiałów: wstępny wybór materiałów i urządzeń (materiały podłogi / ściany / sufita, sanitarne, meble)</h3> 
+<h3>&#9658; Modelowanie 3D i rysunki mebli wykonanych na zamówienie</h3> 
+ <h4><i>Cena*: od 27&euro;/m&sup2; (bez VAT) </i> </h4>
+<i>(Cena jest obliczana na podstawie powierzchni pomieszczeń i zależy od preferowanego stylu, rodzaju pomieszczeń i zakres projektu)
+Minimalna płatność 500&euro; (bez VAT)</i><br><br><br>
+
+<h2 style="font-family:Century Gothic;">ZARZĄDZANIE PROJEKTEM</h2><br>
+
+<h3>&#9658; Konsultacja firm-wykonawców zamówienia dla przygotowania specyfikacji</h3>
+<h3>&#9658; Pomóc w ostatecznym wyborze materiałów</h3>
+<h3>&#9658; Monitorowanie prac wykończenia, ścian i sufitów (molowy, tynkarz, kafelkarz, stolarz, ...)</h3>
+<h3>&#9658; Zarządzanie zamówieniami i dostawami (materiały wykończeń, wyposażenia, meble, tekstylia, dekoracje)</h3>
+<h3>&#9658; Kontrola instalacji mebli i elementów dekoracyjnych (stolarz, dostawcy)</h3>
+ <h4><i>Cena*: 5-10% wartości zamówienia (bez VAT)</i></h4><br><br>
+
+ 
+<h2 style="font-family:Century Gothic;">HOME STAGING - Przedsprzedażne przygotowanie</h2><br>
+
+<h3>&#9658; Rysunki 2D planowania pomieszczeń - plan ogólny</h3>
+<h3>&#9658; Wizualizacja 3D każdego pokoju, łącznie meble, tekstylia, udekorowanie, oświetlenie, pokrycia podłóg, ścian oraz sufitów</h3>
+<h4> <i>Cena*: Od 15&euro;/m&sup2; (bez VAT)</i></h4><br><br>  
+
+
+<h2 style="font-family:Century Gothic;">PROJEKT KRAJOBRAZU</h2><br>
+
+<h3>&#9658; Schematyczny plan 2D krajobrazu (2 wersje)</h3>
+<h3>&#9658; Wizualizacja 3D</h3>
+<h3>&#9658; Rysunki konstrukcyjne (plan wymiarowy, plan pokrycia, oświetlenia, plan sadzenia roślin, plan instalacji obiektów zewnętrznych - kuchnie plenerowe, grille itp)</h3>
+<h3>&#9658; Specyfikacja materiałów: wstępny wybór materiałów i urządzeń (materiały pokrycia, rośliny, meble i przedmioty dekoracyjne do ogrodu)</h3>
+<h3>&#9658; Modelowanie 3D i rysunki mebli wykonanych na zamówienie</h3>
+ <h4><i>Cena *: od 2200&euro;/100m&sup2; (bez VAT) </i></h4>
+<i>(Cena jest obliczana na podstawie powierzchni i zależy od preferowanego stylu, oraz zakresu projektu)
+Minimalna płatność 500&euro; (bez VAT)</i>
+<br><br>
+<br>
+<h4><i>*Aby określić dokładny koszt projektu należy skontaktować się z nami, ponieważ są zniżki w zależności od indywidualnych cech projektu.
+Przy zamawianiu meble u nas Państwo otrzymają 10% zniżki na projektowanie wnętrz
+<br><br>
+Nasze ceny podlegają opodatkowaniu VAT 20%</i></h4>
+
+
+
+</div>
+
+
+
+   
+
+<div id="blok4">
+<br><br><br>
+<p id="firstc" style="font-family:Century Gothic;">MASZ PROJEKT DO PRZEDYSKUTOWANIA?<br>
+JESTEŚMY TU ABY UDZIELIĆ PAŃSTWU POMOCY</p> <br>
+ <br><br>
+</div>
+
+</div>
+
+</div>
+
+
+</main>
+
+
+<!--#include virtual="include/footerpl.txt"-->	
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

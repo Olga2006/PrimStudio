@@ -1,0 +1,111 @@
+<div class="description">
+		<body onload="allClose()">
+		<div id="menu_left">
+		<ul id="menu">
+  <li><a href="#" onclick="openMenu(this);return false"><img src="http://primstudio.net/images/menu.jpg" alt="menu"  title="otworzyć/zamknąć menu"/></a>
+
+    <ul id="nav_left">
+	 <div id="menuback" >
+					<li><a href="http://primstudio.net/projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Główna</a></li>
+					
+                        <li><a href="#" onclick="openMenu(this);return false">Informacje ...</a>
+                            <ul>
+                                <li><a href="http://primstudio.net/projektant-wnetrz-francja.shtml ">Dlaczego PrimStudio</a></li>
+                                <li><a href="http://primstudio.net/nicea-architektura-wnetrz.shtml ">Misja</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/etapy.shtml">Etapy projektu</a></li>
+								<li><a href="http://primstudio.net/projektowanie-wnetrz/style.shtml">Style</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/cena.shtml">Cena</a></li>
+                                </ul>      
+                        </li>                                              
+         
+                        <li><a href="#" onclick="openMenu(this);return false" >Projektowanie...</a>
+                            <ul>
+                                <li ><a href="http://primstudio.net/monaco-aranzacja-wnetrz.shtml ">Projektowanie wnętrz</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/meble.shtml">Projektowanie mebli</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-ogrodow-riviera-francuska.shtml ">Projektowanie krajobrazu</a></li>    
+							    <li><a href="http://primstudio.net/projektowanie-wnetrz/portfolio.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                         
+					<li><a href="#" onclick="openMenu(this);return false" >Wyposażenie...</a>
+						  <ul>
+						        <li><a href="http://primstudio.net/ekskluzywne-meble-wloskie.shtml">Meble luksusowe</a>	</li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a></li>    
+							    <li><a href="http://primstudio.net/projektowanie-wnetrz/oswietlenie.shtml">Oświetlenia</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="http://primstudio.net/cannes-architekt-wnetrz.shtml">Kontakt</a></li>
+                   
+	
+</div>
+   </ul>
+ </li>
+</ul>
+</div>
+ </body>	
+
+  <style>
+   li {
+    list-style-type: none; /* Убираем маркеры */
+
+  </style>
+	 <script type="text/javascript">
+	 function openMenu(node){
+	var subMenu = node.parentNode.getElementsByTagName("ul")[0];
+	subMenu.style.display == "none" ? subMenu.style.display = "block" : subMenu.style.display = "none";
+}
+function allClose(){
+	var list = document.getElementById("menu").getElementsByTagName("ul");
+	for(var i=0;i<list.length;i++){
+		list[i].style.display = "none";
+	}
+}
+
+	 
+	 </script>
+			
+			<div id="menu_div">
+            <div id="navigation">
+                <div id="menu">
+                    <ul id="nav">
+
+					<li><a href="http://primstudio.net/projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Główna</a></li>
+					
+                        <li><a href="#">Informacje</a>
+                            <ul>
+                                <li><a href="http://primstudio.net/projektant-wnetrz-francja.shtml ">Dlaczego PrimStudio</a></li>
+                                <li><a href="http://primstudio.net/nicea-architektura-wnetrz.shtml ">Misja</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/etapy.shtml">Etapy projektu</a></li>
+								<li><a href="http://primstudio.net/projektowanie-wnetrz/style.shtml">Style</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/cena.shtml">Cena</a></li>
+                                </ul>      
+                        </li>                                              
+         
+                        <li><a href="#">Projektowanie</a>
+                            <ul>
+                                <li ><a href="http://primstudio.net/monaco-aranzacja-wnetrz.shtml ">Projektowanie wnętrz</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/meble.shtml">Projektowanie mebli</a></li>
+                                <li><a href="http://primstudio.net/projektowanie-ogrodow-riviera-francuska.shtml ">Projektowanie krajobrazu</a></li>    
+							    <li><a href="http://primstudio.net/projektowanie-wnetrz/portfolio.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                         
+					<li><a href="#">Wyposażenie</a>
+						  <ul>
+						        <li><a href="http://primstudio.net/ekskluzywne-meble-wloskie.shtml">Meble luksusowe</a>	</li>
+                                <li><a href="http://primstudio.net/projektowanie-wnetrz/malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a></li>    
+							    <li><a href="http://primstudio.net/projektowanie-wnetrz/oswietlenie.shtml">Oświetlenia</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="http://primstudio.net/cannes-architekt-wnetrz.shtml">Kontakt</a></li>
+                      
+						
+                    </ul>
+ 
+					  </div><!-- #menu КОНЕЦ-->	
+ </div>
+ </div><!-- #menu_div КОНЕЦ--> 
+
+</div>

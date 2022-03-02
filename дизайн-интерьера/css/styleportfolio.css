@@ -1,0 +1,132 @@
+
+#blok8{
+
+width:100%;
+height: 440px;
+margin: 0px auto;
+padding:0px ;
+}
+
+
+
+
+
+img.post-thumbnail {
+  -webkit-filter: grayscale(70%);
+  -moz-filter: grayscale(70%);
+  -ms-filter: grayscale(70%);
+  -o-filter: grayscale(70%);
+  filter: grayscale(70%);
+  filter: gray; /* IE 6-9 */
+/*ЭТОТ КОД АНИМИРУЕТ ПЕРЕХОД ОТ ЧБ К ЦВЕТУ*/
+  -webkit-transition: all 4s;
+  -moz-transition: all 4s;
+  -o-transition: all 4s;
+  transition: all 4s;
+/*КОНЕЦ КОДА АНИМИРОВАНИЯ*/
+}
+img.post-thumbnail:hover {
+  -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
+  filter: none; /* IE 6-9 */
+}
+
+
+ 
+ .view {
+
+    width:500px;
+height:400px;
+   overflow: hidden;
+   position: relative;
+   cursor: default;
+   background:rgba(240,240,240, 0);
+   margin: 15px auto ;
+}
+
+
+.view img  {
+	    width:500px;
+height:400px;
+   display: block;
+   position: relative;
+}
+
+
+
+
+
+
+ .view-sixth img {
+   -webkit-transition: all 0.4s ease-in-out 0.5s;
+   -moz-transition: all 0.4s ease-in-out 0.5s;
+   -o-transition: all 0.4s ease-in-out 0.5s;
+   -ms-transition: all 0.4s ease-in-out 0.5s;
+   transition: all 0.4s ease-in-out 0.5s;
+}
+
+
+
+
+.view-sixth:hover .mask {
+
+     -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
+  filter: none; /* IE 6-9 */
+}
+.view-sixth:hover img {
+   -webkit-transition-delay: 0s;
+   -moz-transition-delay: 0s;
+   -o-transition-delay: 0s;
+   -ms-transition-delay: 0s;
+   transition-delay: 0s;
+     -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
+  filter: none; /* IE 6-9 */
+}
+
+
+
+
+ 
+
+
+    
+/* Для отображения на устройствах меньше 980px*/    
+
+ @media screen and (min-width:240px) and (max-width:420px) {   
+
+
+ }
+
+
+   
+@media screen and (min-width:419px) and (max-width:619px) { 
+
+
+        }
+        
+        
+         
+@media screen and (min-width:620px) and (max-width:1000px) {
+
+        }
+         
+         
+         
+@media screen and (min-width:999px) and (max-width:1250px) {
+
+        }
+
+
+
+

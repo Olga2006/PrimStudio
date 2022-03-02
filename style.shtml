@@ -1,0 +1,708 @@
+﻿<html>
+<head>
+<meta charset="utf-8">
+
+<title>PrimStudio | Style wnętrz </title>
+ <meta name="description" content="Zdefiniujmy główne style wewnątrz ">
+ <meta name="keywords" content="Definicja głównych stylów wewnątrz ">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+   <!--[if IE]><link rel="stylesheet" type="text/css" href="not-ie.css" /><![endif]-->     
+		
+<link rel="stylesheet"type="text/css" href="stylesstyle.css">
+<link rel="stylesheet"type="text/css" href="styleall.css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+  <link rel="shortcut icon" href="images/favicon.png" type="image/png">
+  
+  <!-- slider3 -->  
+<script src="prototype.js" type="text/javascript"></script>
+<script src="scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+<script src="lightbox.js" type="text/javascript"></script>
+  <link rel="lightbox.css" type="text/css" media="screen" />
+  
+          <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
+		  
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66344442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31954036 = new Ya.Metrika({
+                    id:31954036,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->	  
+		  
+
+</head>
+
+
+<body>
+
+<header>
+
+<img src="images/проектирование-интерьера-на-лазурном-берегу.jpg" alt="Aranżacja wnętrz na Riwierze Francuskiej" 
+title="Aranżacja wnętrz na Riwierze Francuskiej" style="position: absolute; right:0px; top:60px; width:1000px;  min-width: 320px; height: 500px;" />
+
+<!--#include virtual="include/menupl.txt"-->
+	<div class="description">
+		<body onload="allClose()">
+		<div id="menu_left">
+		<ul id="menu">
+  <li><a href="#" onclick="openMenu(this);return false"><img src="images/menu.jpg" alt="menu"  title="otworzyć/zamknąć menu"/></a>
+
+    <ul id="nav_left">
+	 <div id="menuback" >
+					<li><a href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Główna</a></li>
+					
+                        <li><a href="#" onclick="openMenu(this);return false">Informacje ...</a>
+                            <ul>
+                                <li><a href="projektant-wnetrz-francja.shtml ">Dlaczego PrimStudio</a></li>
+                                <li><a href="nicea-architektura-wnetrz.shtml ">Misja</a></li>
+                                <li><a href="etapy.shtml">Etapy projektu</a></li>
+								<li><a href="style.shtml">Główne style</a></li>
+                                <li><a href="cena.shtml">Cena</a></li>
+                                </ul>      
+                        </li>                                              
+         
+                        <li><a href="#" onclick="openMenu(this);return false" >Projektowanie...</a>
+                            <ul>
+                                <li ><a href="monaco-aranzacja-wnetrz.shtml ">Projektowanie wnętrz</a></li>
+                                <li><a href="meble.shtml">Projektowanie mebli</a></li>
+                                <li><a href="projektowanie-ogrodow-riviera-francuska.shtml ">Projektowanie ogrodów</a></li>    
+							    <li><a href="portfoliopl.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                         
+					<li><a href="#" onclick="openMenu(this);return false" >Wyposażenie...</a>
+						  <ul>
+						        <li><a href="ekskluzywne-meble-wloskie.shtml">Meble luksusowe</a>	</li>
+                                <li><a href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a></li>    
+							    <li><a href="oswietlenie.shtml">Oświetlenia</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="cannes-architekt-wnetrz.shtml">Kontakt</a></li>
+                   
+	
+</div>
+   </ul>
+ </li>
+</ul>
+</div>
+ </body>	
+
+  <style>
+   li {
+    list-style-type: none; /* Убираем маркеры */
+
+  </style>
+	 <script type="text/javascript">
+	 function openMenu(node){
+	var subMenu = node.parentNode.getElementsByTagName("ul")[0];
+	subMenu.style.display == "none" ? subMenu.style.display = "block" : subMenu.style.display = "none";
+}
+function allClose(){
+	var list = document.getElementById("menu").getElementsByTagName("ul");
+	for(var i=0;i<list.length;i++){
+		list[i].style.display = "none";
+	}
+}
+
+	 
+	 </script>
+			
+			<div id="menu_div">
+            <div id="navigation">
+                <div id="menu">
+                    <ul id="nav">
+
+					<li><a href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Główna</a></li>
+					
+                        <li><a href="#">Informacje</a>
+                            <ul>
+                                <li><a href="projektant-wnetrz-francja.shtml ">Dlaczego PrimStudio</a></li>
+                                <li><a href="nicea-architektura-wnetrz.shtml ">Misja</a></li>
+                                <li><a href="etapy.shtml">Etapy projektu</a></li>
+								<li><a href="style.shtml">Główne style</a></li>
+                                <li><a href="cena.shtml">Cena</a></li>
+                                </ul>      
+                        </li>                                              
+         
+                        <li><a href="#">Projektowanie</a>
+                            <ul>
+                                <li ><a href="monaco-aranzacja-wnetrz.shtml ">Projektowanie wnętrz</a></li>
+                                <li><a href="meble.shtml">Projektowanie mebli</a></li>
+                                <li><a href="projektowanie-ogrodow-riviera-francuska.shtml ">Projektowanie ogrodów</a></li>    
+							    <li><a href="portfoliopl.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                         
+					<li><a href="#">Wyposażenie</a>
+						  <ul>
+						        <li><a href="ekskluzywne-meble-wloskie.shtml">Meble luksusowe</a>	</li>
+                                <li><a href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a></li>    
+							    <li><a href="oswietlenie.shtml">Oświetlenia</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="cannes-architekt-wnetrz.shtml">Kontakt</a></li>
+                      
+						
+                    </ul>
+ 
+					  </div><!-- #menu КОНЕЦ-->	
+ </div>
+ </div><!-- #menu_div КОНЕЦ--> 
+
+</div>			
+<!--#include virtual="include/menupl.txt"-->
+
+
+<div id="flag">
+<div id="flagcont">
+<a href="style.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Style wnętrz" title="Style wnętrz" src="images/flagpl.jpg"/>
+</div>
+<a id="flagt" href="style.shtml">PL</a>
+</div>
+</a>
+
+<a href="стили.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Стили в интерьере" title="Стили в интерьере" src="images/flagru.jpg"/>
+</div>
+<a id="flagt" href="стили.shtml">RU</a>
+</div>
+</a>
+
+<a href="styles.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Styles d'intérieur" title="Styles d'intérieur" src="images/flagfr.jpg"/>
+</div>
+<a id="flagt" href="styles.shtml">FR</a>
+</div>
+</a>
+
+<a href="stylesen.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Styles in the interior" title="Styles in the interior" src="images/flagen.jpg"/>
+</div>
+<a id="flagt" href="stylesen.shtml">EN</a>
+</div>
+</a>
+</div>	</div>
+ <div id="pagename">	
+<p id="firsthead">
+Style wnetrz</p>
+	</div>	
+<div id="icon">	</div>	
+	
+ </header>
+
+ 
+ <main>
+ 
+
+
+ <div id="blokgray">
+ <div id="blok1">
+ <br><br>
+ 
+ <p id="secondc">Na początku każdego projektu wnętrza, pewnie że zastanowiacie się, jaki styl wybrać? jaki styl lubię? 
+z którym stylem czuję się komfortowo?<br> Najedź myszką na rysunek foteli i dowiedzieć się więcej o stylu, w którym jest on przedstawiony.
+Poniższa lista stylów nie jest ostateczna, a raczej wybór niektórych z najczęstszych oraz popularnych, ponieważ istnieje wiele więcej stylów i zawsze tworzą się nowe.</p><br><br><br>
+ 
+
+
+
+
+ <div id="blok8">
+ 
+   <div class="view view-sixth">
+                   <img src="images/gothic0.png" width="150" height="218" alt="" />
+					
+					<a href="images/gothicpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Gotycki Styl</p>
+                        <p  id="secondc" >Nie bój się być dramatycznym ... </p>
+                       <a href="images/gothicpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+							
+				
+	                <div class="view view-sixth">
+                   <img src="images/baroque0.png" width="183" height="217" alt="" />
+					
+					<a href="images/baroquepl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Barokowy </p>
+                        <p  id="secondc" >Elegancki, luksusowy, imponujący, błyskotliwy... </p><br>
+                       <a href="images/baroquepl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>			
+				
+
+<div class="view view-sixth">
+                   <img src="images/rococo0.png" width="150" height="218" alt="" />
+					
+					<a href="images/rococopl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Rococo</p>
+                        <p  id="secondc" >Niepoważne, samowolne dziecko szlachetnego, znakomitego baroku ...</p>
+                       <a href="images/rococopl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+
+		    <div class="view view-sixth">
+                   <img src="images/classic0.png" width="150" height="218"  alt="" />
+					
+					<a href="images/neoclassicpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Neoklasycyzm</p>
+                        <p  id="secondc" >"Nowa" klasyczna reakcja na Rokoko oraz Barok...</p>
+                       <a href="images/neoclassicpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>					
+				
+				
+			</div> 
+			
+			
+	 <div id="blok8">		
+		
+
+	     <div class="view view-sixth">
+                   <img src="images/empire0.png" width="183" height="217" alt="" />
+					
+					<a href="images/empirepl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Empire</p>
+                        <p  id="secondc" >Miał na celu podnosić przywództwo Napoleona ...</p>
+                       <a href="images/empirepl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+				
+		   <div class="view view-sixth" >
+                   <img src="images/modern0.png" width="183" height="179" alt="" />
+					
+					<a href="images/modernpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Modern</p>
+                        <p  id="secondc" >Połączony z wiekiem mechanizacji i odniosi się do 1850-1920rr...</p> <br>
+                       <a href="images/modernpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>			
+				
+
+    <div class="view view-sixth">
+                   <img src="images/artdeco0.png" width="183" height="150" alt="" />
+					
+					<a href="images/artdecopl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Art Deco</p>
+                        <p  id="secondc" >​​Elegancki, efektowny i funkcjonalny...</p>
+                       <a href="images/artdecopl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+ 
+     <div class="view view-sixth">
+                   <img src="images/retro0.png" width="175" height="218" alt="" />
+					
+					<a href="images/retropl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Retro</p>
+                        <p  id="secondc" >Styl lat 1950-1970 z jaskrawymi kolorami oraz niezwykłym konstrukcjami....</p>
+                       <a href="images/retropl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+				
+
+
+
+
+				</div>
+
+
+ 
+ <div id="blok8">
+ 
+ 
+ 				 <div class="view view-sixth">
+                   <img src="images/country0.png" width="183" height="205" alt="" />
+					
+					<a href="images/countrypl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Elegancki Wiejski Styl</p>
+                        <p  id="secondc" >Elegancki, wiejski chic....</p>
+                       <a href="images/countrypl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+ 
+
+   <div class="view view-sixth ">
+                   <img src="images/maverick0.png" width="183" height="192" alt="" />
+					
+					<a href="images/maverickpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Maverick</p>
+                        <p  id="secondc" > Pomysłowy, nietypowy i niekonwencjonalny.....</p>
+                       <a href="images/maverickpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>
+
+     <div class="view view-sixth">
+                   <img src="images/minimalist0.png" width="183" height="102" alt="" />
+					
+					<a href="images/minimalistpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Nowoczesny Minimalizm</p>
+                        <p  id="secondc" >Nacisk na prostotę....</p>
+                       <a href="images/minimalistpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>
+ 
+   <div class="view view-sixth">
+                   <img src="images/hightech0.png" width="174" height="218" alt="" />
+					
+					<a href="images/hightechpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl HighTech</p>
+                        <p  id="secondc" >Nadmierne używanie wysokich technologii.....</p>
+                       <a href="images/hightechpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>
+
+
+</div>
+
+
+  
+ <div id="blok8">
+				
+
+				
+	 <div class="view view-sixth"  >
+                   <img src="images/rustic0.png" width="123" height="218" alt="" />
+					
+					<a href="images/rusticpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Rustic</p>
+                        <p  id="secondc" >Nacisk na naturalne, nieprzetworzone elementy....</p> <br>
+                       <a href="images/rusticpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>		
+
+	 <div class="view view-sixth"  >
+                   <img src="images/arabian0.png" width="131" height="218" alt="" />
+					
+					<a href="images/arabianpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Arabski</p>
+                        <p  id="secondc" >Jeśli chcesz okazać się w luksusie...</p> <br>
+                       <a href="images/arabianpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+			 <div class="view view-sixth"  >
+                   <img src="images/chinese0.png" width="131" height="218" alt="" />
+					
+					<a href="images/chinesepl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Chiński Styl</p>
+                        <p  id="secondc" >Wnętrze czerpie swoje początki z tysiącletniej kultury...</p> <br>
+                       <a href="images/chinesepl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+			 <div class="view view-sixth"  >
+                   <img src="images/shabbychic0.png" width="131" height="218" alt="" />
+					
+					<a href="images/shabbychicpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Shabby Szyk</p>
+                        <p  id="secondc" >Przedstawia delikatną kobiecą zmysłowość, która odróżnia ten styl od innych...</p> 
+                       <a href="images/shabbychicpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>					
+				
+</div>	
+ 
+ 
+
+<div id="blok4">
+<br><br><br>
+<p id="firstc" style="font-family:Century Gothic;">MASZ PROJEKT DO PRZEDYSKUTOWANIA?<br>
+JESTEŚMY TU ABY UDZIELIĆ PAŃSTWU POMOCY</p> <br>
+ <br><br>
+</div>
+
+
+</div>
+
+</div>
+
+
+</main>
+
+<!--#include virtual="include/footerpl.txt"-->
+<footer>
+
+
+<div id="blokblack">
+<div id="blok5">
+<a id="blok" href="cannes-architekt-wnetrz.shtml#contact">  
+<div id="blok0">
+KONTAKT Z NAMI
+</div>
+</a>
+
+<div id="blok5a"><br>
+<img src="images/primstudio-architecte-interieur.png" alt="PrimStudio projektowanie wnętrz" 
+title="PrimStudio projektowanie wnętrz" style="position: absolute; left:0px; top:0px; width:312px; height: 113px;"/>
+ <br><br><br><br><br><br><br>
+<p id="secondf"> 26, ul. Charles de Mouchy<br>
+ 06210 Mandelieu-la-Napoule<br>
+  Francja<br>
+Tel. +33630131343<br>
+Email: contact@primstudio.net<br>
+<br></p>
+</div>
+
+<div id="blok5b">
+<br><br><br>
+<p id="firstf">
+PRZEGLAD </p><br>
+
+<a id= "fo" href="style.html">Przegląd stylów</a><br>
+<a id="fo" href="etapy.html">Etapy projektowania wnętrz</a><br>
+<a id="fo" href="nicea-architektura-wnetrz.shtml">Misja projektanta</a><br>
+</div>
+
+<div id="blok5c">
+<br><br><br><br><br>
+<a id="fo" href="nicea-architektura-wnetrz.shtml">Misja</a><br>
+<a id="fo" href="projektant-wnetrz-francja.shtml">Dlaczego PrimStudio</a><br>
+<a id="fo" href="etapy.html">Etapy projektu</a><br>
+<a id="fo" href="style.html">Główne style</a><br>
+<a id="fo" href="cena.html">Cena</a><br>
+<a id="fo" href="portfoliopl.html">Portfolio</a><br>
+<a id="fo" href="nowosci.html">Nowości</a><br>
+<a id="fo" href="cannes-architekt-wnetrz.shtml">Kontakt</a><br>
+<a id="fo" href="kariera.html">Kariera</a>
+</div>
+
+<div id="blok5c">
+<br><br><br>
+<p id="firstf">NAWIGACJE</p> <br>
+<a id="fo" href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml">Główna</a><br>
+<a id="fo" href="monaco-aranzacja-wnetrz.shtml">Projektowanie wnętrz</a><br>
+<a id="fo" href="projektowanie-ogrodow-riviera-francuska.shtml">Projektowanie ogrodów</a><br>
+<a id="fo" href="meble.shtml">Projektowanie mebli</a><br>
+<a id="fo" href="ekskluzywne-meble-wloskie.shtml">Meble luksusowe</a><br>
+<a id="fo" href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a><br>
+<a id="fo" href="oswietlenie.shtml">Oświetlenia</a>
+
+</div>
+
+<div id="share-buttons">
+<!-- Facebook -->
+<a href="http://www.facebook.com/sharer.php?u=http://www.primstudio.net" target="_blank"><img src="images/facebook.png"alt="Facebook" 
+title="PrimStudio Facebook" border="0"/></a>
+ 
+<!-- Twitter -->
+<a href="http://twitter.com/share?url=http://www.primstudio.net&text=I like so much&hashtags=design of interior" target="_blank"><img src="images/twitter.png" 
+alt="Twitter" title="PrimStudio Twitter" border="0" /></a>
+ 
+<!-- Google+ -->
+<a href="https://plus.google.com/share?url=http://www.primstudio.net" target="_blank"><img src="images/google.png" alt="Google" title="PrimStudio Google" border="0"/></a>
+ 
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.primstudio.net" target="_blank"><img src="images/linkedin.png" 
+alt="LinkedIn" title="PrimStudio LinkedIn"  border="0"/></a>
+
+<!-- Email -->
+<a href="mailto:?Subject=Simple Share Buttons&Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://www.primstudio.net"><img src="images/email.png"
+alt="Email" title="PrimStudio Email" border="0" /></a>
+<!-- blog -->
+<a href="https://primstudio.wordpress.com/" target="_blank"> <img src="images/wordpress.png" alt="Wordpress" title="PrimStudio Wordpress" border="0"/></a>
+
+</div>
+
+<div id="acro">
+<acronym  title="Wszelkie prawa zastrzeżone. Żaden materiał zawarty na tej stronie nie może być powielany, rozpowszechniany,
+ modyfikowany, przesyłany,duplikowany lub dostosowany  bez uprzedniej pisemnej zgody PrinStudio."> 
+ &copy; 2015 PrimStudio DESIGN</acronym>
+</div>
+</div>
+
+</div>
+</footer>
+
+<div id="navigation4" style="display: none;">
+          <a id="fo1" href="мебель.shtml">Дизайн мебели</a>
+	<a id="fo1" href="carrieres.shtml">Carrières</a>
+	<a id="fo1" href="etapy.shtml">Etapy projektu </a>
+	<a id="fo1" href="style.shtml">Style </a>
+	<a id="fo1" href="meble.shtml">Projektowanie mebli</a>
+    <a id="fo1" href="kariera.shtml">Kariera</a>
+    <a id="fo1" href="furniture.shtml">Furniture design </a>	
+<h3><a id="fo1"  href="landscape-design-french-riviera-ru.shtml">Landscaping Nice</a></h3>
+<h1><a id="fo1" href="italian-luxury-furniture-france-ru.shtml">Italian luxury furniture</a></h1>
+<h3><a id="fo1" href="conception-paysage-cote-d-azur-ru.shtml">Aménagement paysager Alpes Maritimes</a></h3>		
+<h1><a id="fo1" href="interior-design-french-riviera-ru.shtml">Interior Design Monaco</a></h1>
+<h2><a id="fo1" href="cannes-interior-designer-ru.shtml">Contact with designer  </a></h2>
+<h3><a id="fo1" href="nice-interior-design-ru.shtml">Designer in Provence-Alpes-Cote d'Azur </a></h3>	
+<h2><a id="fo1" href="russian-interior-designer-france.shtml">Russian interior designer in France </a></h2>
+<h2><a id="fo1" href="monaco-aranzacja-wnetrz.shtml">Architektura wnętrz Alpes Maritimes Francja</a></h2>	
+    <a id="fo1" href="etapes.shtml">Étapes du projet</a>
+	<a id="fo1" href="portfolio.shtml">Portfolio  </a>
+	<a id="fo1" href="careers.shtml">Careers  </a>	
+	<a id="fo1" href="этапы.shtml">Этапы проекта</a>
+    <a id="fo1" href="lighting.shtml">Lighting </a>	
+	<a id="fo1"  href="steps.shtml">Project steps </a>	
+<h3><a id="fo1" href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн Ницца</a></h3>	
+<h1><a id="fo1" href="conception-d-interieure-cote-d-azur-ru.shtml ">Architecte d'intérieur Côte d'Azur</a></h1>	
+<h3><a id="fo1" href="nice-architecture-d-interieur-ru.shtml">Amenagement interieur Provence-Alpes-Côte d'Azur</a></h3>	
+<h1><a id="fo1" href="дизайн-интерьера-французская-ривьера.shtml">Дизайн Интерьера Французская Ривьера</a></h1>
+<h2><a id="fo1"  href="monaco-interior-design-ru.shtml">Interior design Alpes Maritimes France </a></h2>
+    <a id="fo1" href="портфолио.shtml">Портфолио</a>
+    <a id="fo1" href="освещение.shtml">Освещение</a>	
+	<a id="fo1" href="prix.shtml">Tarif</a>
+    <a id="fo1" href="карьера.shtml">Карьера</a>	
+    <a id="fo1" href="новости.shtml">Новости</a>	
+<h2><a id="fo1" href="монако-дизайн-интерьера.shtml">Дизайн интерьера Альпы Приморские Франция</a></h2>
+<h2><a id="fo1" href="monaco-amenagement-d-interieur-ru.shtml">Architecte d'intérieur Nice</a></h2>
+<h1><a id="fo1" href="итальянская-элитная-мебель.shtml">Элитная итальянская мебель</a></h1>
+<h3><a id="fo1" href="nicea-architektura-wnetrz.shtml">Projektant w Prowansja-Alpy-Lazurowe Wybrzeże</a></h3>	
+<h2><a id="fo1" href="канны-дизайнер-интерьера.shtml">Контакт с дизайнером интерьера в Каннах</a></h2>
+<h1><a id="fo1" href="meubles-luxueux-italien-france-ru.shtml">Meubles design italien luxe</a></h1>
+<h3><a id="fo1" href="ницца-дизайн-интерьера.shtml">Дизайнер в Прованс-Альпы-Лазурный берег</a></h3>
+<h2><a id="fo1" href="русский-дизайнер-интерьера-франция.shtml">Русский Дизайнер Интерьера во Франции</a></h2>
+<h2><a id="fo1" href="projektant-wnetrz-francja.shtml">Architekt wnętrz we Francji</a></h2>	
+<h2><a id="fo1" href="cannes-architecte-d-interieur-ru.shtml">Contact avec l'architecte d'intérieur à Cannes</a></h2>	
+    <a id="fo1" href="styles.shtml">Styles </a>
+    <a id="fo1" href="price.shtml">Price</a>
+    <a id="fo1" href="news.shtml">News </a>
+	<a id="fo1" href="картины-скульптура.shtml">Живопись &amp; Скульптура</a>
+    <a id="fo1" href="цена.shtml">Цена</a>
+	<a id="fo1" href="meubles.shtml">Design de mobilier</a>
+	<a id="fo1" href="peinture-sculpture.shtml">Peinture &amp; Sculpture</a>
+    <a id="fo1" href="nowosci.shtml">Nowości</a>
+    <a id="fo1" href="oswietlenie.shtml">Oświetlenia</a>
+	<a id="fo1" href="portfolioen.shtml">Portfolio </a>
+	<a id="fo1" href="стили.shtml">Стили</a>
+<h1><a id="fo1" href="ekskluzywne-meble-wloskie.shtml">Ekskluzywne Meble włoskie</a></h1>	
+<h2><a id="fo1" href="russe-designer-interieur-france.shtml">Architecte d'intérieur russe en France</a></h2>
+<h2><a id="fo1" href="cannes-architekt-wnetrz.shtml">Kontakt z projektantem wnętrz w Cannes</a></h2>	
+<h3><a id="fo1" href="projektowanie-ogrodow-riviera-francuska.shtml">Aranżacja ogrodów Nicea</a></h3>
+<h1><a id="fo1" href="projektowanie-wnetrz-lazurowe-wybrzeze.shtml ">Projektowanie wnętrz Riwiera Francuska</a></h1>	
+    <a id="fo1" href="eclairage.shtml">Éclairage</a>
+	<a id="fo1" href="cena.shtml">Cena</a>
+    <a id="fo1" href="painting.shtml">Painting &amp; Sculpture  </a>
+	<a id="fo1" href="malarstwo-rzezba.shtml">Malarstwo &amp; Rzeźba</a>
+    <a id="fo1" href="stylesen.shtml">Styles</a>
+    <a id="fo1" href="portfoliopl.shtml">Portfolio</a>
+	<a id="fo1" href="nouvelles.shtml">Nouvelles</a>
+ </div>
+
+<a href="#" onclick="opennavigation4('navigation4'); return false"><img src="images/tag-cloud.png" alt="Tag Cloud" 
+title="otworzyć/zamknąć Tag Cloud"
+style="position:relative; float:right; bottom:70px; z-index:1100; width:70px; height:70px; " /></a>
+
+ <script type="text/javascript">
+function opennavigation4(id){
+ display = document.getElementById(id).style.display;
+ if(display=='none'){
+ document.getElementById(id).style.display='block';
+
+}else{
+document.getElementById(id).style.display='none';
+}
+
+}
+
+</script>
+<!--#include virtual="include/footerpl.txt"-->
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

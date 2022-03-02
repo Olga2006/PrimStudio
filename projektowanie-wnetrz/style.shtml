@@ -1,0 +1,423 @@
+﻿<html>
+<head>
+<meta charset="utf-8">
+
+<title>PrimStudio | Style wnętrz </title>
+ <meta name="description" content="Zdefiniujmy główne style wewnątrz ">
+ <meta name="keywords" content="Definicja głównych stylów wewnątrz ">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+   <!--[if IE]><link rel="stylesheet" type="text/css" href="http://primstudio.net/css/not-ie.css" /><![endif]-->     
+		
+<link rel="stylesheet"type="text/css" href="http://primstudio.net/css/stylesstyle.css">
+<link rel="stylesheet"type="text/css" href="http://primstudio.net/css/styleall.css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+  <link rel="shortcut icon" href="http://primstudio.net/images/favicon.png" type="image/png">
+  
+  <!-- slider3 -->  
+<script src="http://primstudio.net/js/prototype.js" type="text/javascript"></script>
+<script src="http://primstudio.net/js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+<script src="http://primstudio.net/js/lightbox.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="http://primstudio.net/css/lightbox.css" type="text/css" media="screen" />
+  
+          <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
+		  
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66344442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31954036 = new Ya.Metrika({
+                    id:31954036,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->	  
+		  
+
+</head>
+
+
+<body>
+
+<header>
+
+<img src="http://primstudio.net/images/проектирование-интерьера-на-лазурном-берегу.jpg" alt="Aranżacja wnętrz na Riwierze Francuskiej" 
+title="Aranżacja wnętrz na Riwierze Francuskiej" style="position: absolute; right:0px; top:60px; width:1000px;  min-width: 320px; height: 500px;" />
+
+
+				
+<!--#include virtual="include/menupl.txt"-->
+
+
+<div id="flag">
+<div id="flagcont">
+<a href="http://primstudio.net/projektowanie-wnetrz/style.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Style wnętrz" title="Style wnętrz" src="http://primstudio.net/images/flagpl.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/projektowanie-wnetrz/style.shtml">PL</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/дизайн-интерьера/стили.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Стили в интерьере" title="Стили в интерьере" src="http://primstudio.net/images/flagru.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/дизайн-интерьера/стили.shtml">RU</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/conception-interieur/styles.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Styles d'intérieur" title="Styles d'intérieur" src="http://primstudio.net/images/flagfr.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/conception-interieur/styles.shtml">FR</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/interior-design/styles.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Styles in the interior" title="Styles in the interior" src="http://primstudio.net/images/flagen.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/interior-design/styles.shtml">EN</a>
+</div>
+</a>
+</div>	</div>
+
+ <div id="pagename">	
+<p id="firsthead">
+Style wnetrz</p>
+	</div>	
+<div id="icon">	</div>	
+	
+ </header>
+
+ 
+ <main>
+ 
+
+
+ <div id="blokgray">
+ <div id="blok1">
+ <br><br>
+ 
+ <p id="secondc">Na początku każdego projektu wnętrza, pewnie że zastanowiacie się, jaki styl wybrać? jaki styl lubię? 
+z którym stylem czuję się komfortowo?<br> Najedź myszką na rysunek foteli i dowiedzieć się więcej o stylu, w którym jest on przedstawiony.
+Poniższa lista stylów nie jest ostateczna, a raczej wybór niektórych z najczęstszych oraz popularnych, ponieważ istnieje wiele więcej stylów i zawsze tworzą się nowe.</p><br><br><br>
+ 
+
+
+
+
+ <div id="blok8">
+ 
+   <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/gothic0.png" width="150" height="218" alt="" />
+					
+					<a href="gothicpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Gotycki Styl</p>
+                        <p  id="secondc" >Nie bój się być dramatycznym ... </p>
+                       <a href="gothicpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+							
+				
+	                <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/baroque0.png" width="183" height="217" alt="" />
+					
+					<a href="baroquepl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Barokowy </p>
+                        <p  id="secondc" >Elegancki, luksusowy, imponujący, błyskotliwy... </p><br>
+                       <a href="baroquepl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>			
+				
+
+<div class="view view-sixth">
+                   <img src="http://primstudio.net/images/rococo0.png" width="150" height="218" alt="" />
+					
+					<a href="rococopl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Rococo</p>
+                        <p  id="secondc" >Niepoważne, samowolne dziecko szlachetnego, znakomitego baroku ...</p>
+                       <a href="rococopl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+
+		    <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/classic0.png" width="150" height="218"  alt="" />
+					
+					<a href="neoclassicpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Neoklasycyzm</p>
+                        <p  id="secondc" >"Nowa" klasyczna reakcja na Rokoko oraz Barok...</p>
+                       <a href="neoclassicpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>					
+				
+				
+			</div> 
+			
+			
+	 <div id="blok8">		
+		
+
+	     <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/empire0.png" width="183" height="217" alt="" />
+					
+					<a href="empirepl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Empire</p>
+                        <p  id="secondc" >Miał na celu podnosić przywództwo Napoleona ...</p>
+                       <a href="empirepl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+				
+		   <div class="view view-sixth" >
+                   <img src="http://primstudio.net/images/modern0.png" width="183" height="179" alt="" />
+					
+					<a href="modernpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Modern</p>
+                        <p  id="secondc" >Połączony z wiekiem mechanizacji i odniosi się do 1850-1920rr...</p> <br>
+                       <a href="modernpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>			
+				
+
+    <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/artdeco0.png" width="183" height="150" alt="" />
+					
+					<a href="artdecopl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Art Deco</p>
+                        <p  id="secondc" >​​Elegancki, efektowny i funkcjonalny...</p>
+                       <a href="artdecopl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+ 
+     <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/retro0.png" width="175" height="218" alt="" />
+					
+					<a href="retropl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Retro</p>
+                        <p  id="secondc" >Styl lat 1950-1970 z jaskrawymi kolorami oraz niezwykłym konstrukcjami....</p>
+                       <a href="retropl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+				
+
+
+
+
+				</div>
+
+
+ 
+ <div id="blok8">
+ 
+ 
+ 				 <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/country0.png" width="183" height="205" alt="" />
+					
+					<a href="countrypl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Elegancki Wiejski Styl</p>
+                        <p  id="secondc" >Elegancki, wiejski chic....</p>
+                       <a href="countrypl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+ 
+
+   <div class="view view-sixth ">
+                   <img src="http://primstudio.net/images/maverick0.png" width="183" height="192" alt="" />
+					
+					<a href="maverickpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Maverick</p>
+                        <p  id="secondc" > Pomysłowy, nietypowy i niekonwencjonalny.....</p>
+                       <a href="maverickpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>
+
+     <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/minimalist0.png" width="183" height="102" alt="" />
+					
+					<a href="minimalistpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Nowoczesny Minimalizm</p>
+                        <p  id="secondc" >Nacisk na prostotę....</p>
+                       <a href="minimalistpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>
+ 
+   <div class="view view-sixth">
+                   <img src="http://primstudio.net/images/hightech0.png" width="174" height="218" alt="" />
+					
+					<a href="hightechpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl HighTech</p>
+                        <p  id="secondc" >Nadmierne używanie wysokich technologii.....</p>
+                       <a href="hightechpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>
+
+
+</div>
+
+
+  
+ <div id="blok8">
+				
+
+				
+	 <div class="view view-sixth"  >
+                   <img src="http://primstudio.net/images/rustic0.png" width="123" height="218" alt="" />
+					
+					<a href="rusticpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Rustic</p>
+                        <p  id="secondc" >Nacisk na naturalne, nieprzetworzone elementy....</p> <br>
+                       <a href="rusticpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>		
+
+	 <div class="view view-sixth"  >
+                   <img src="http://primstudio.net/images/arabian0.png" width="131" height="218" alt="" />
+					
+					<a href="arabianpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Arabski</p>
+                        <p  id="secondc" >Jeśli chcesz okazać się w luksusie...</p> <br>
+                       <a href="arabianpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+			 <div class="view view-sixth"  >
+                   <img src="http://primstudio.net/images/chinese0.png" width="131" height="218" alt="" />
+					
+					<a href="chinesepl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Chiński Styl</p>
+                        <p  id="secondc" >Wnętrze czerpie swoje początki z tysiącletniej kultury...</p> <br>
+                       <a href="chinesepl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>	
+
+			 <div class="view view-sixth"  >
+                   <img src="http://primstudio.net/images/shabbychic0.png" width="131" height="218" alt="" />
+					
+					<a href="shabbychicpl.jpg" id="mainf" rel="lightbox" >
+                    <div class="mask">
+                         <p >Styl Shabby Szyk</p>
+                        <p  id="secondc" >Przedstawia delikatną kobiecą zmysłowość, która odróżnia ten styl od innych...</p> 
+                       <a href="shabbychicpl.jpg"  rel="lightbox" id="mainfs" >zobaczyć więcej...</a>
+                    </div>
+					</a>
+                </div>					
+				
+</div>	
+ 
+ 
+
+<div id="blok4">
+<br><br><br>
+<p id="firstc" style="font-family:Century Gothic;">MASZ PROJEKT DO PRZEDYSKUTOWANIA?<br>
+JESTEŚMY TU ABY UDZIELIĆ PAŃSTWU POMOCY</p> <br>
+ <br><br>
+</div>
+
+
+</div>
+
+</div>
+
+
+</main>
+
+
+
+<!--#include virtual="include/footerpl.txt"-->
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,356 @@
+﻿<html>
+<head>
+<meta charset="utf-8"/>
+
+
+<title>PrimStudio | Wiadomości w świecie projektowania wnętrz</title>
+ <meta name="description" content="Znajdź wiadomości, wydarzenia, wystawy, konkursy i porady na temat aranżacji wnętrz"/>
+ <meta name="keywords" content="wiadomości projektowanie wnętrz"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+   <!--[if IE]><link rel="stylesheet" type="text/css" href="http://primstudio.net/css/not-ie.css" /><![endif]-->     
+
+<link rel="stylesheet"type="text/css" href="http://primstudio.net/css/styleall.css"/>
+<link rel="stylesheet"type="text/css" href="http://primstudio.net/css/stylenews.css"/>
+
+
+  <link rel="shortcut icon" href="http://primstudio.net/images/favicon.png" type="image/png"/>
+
+  
+  
+<script src="http://primstudio.net/js/jquery-1.7.2.min.js"></script>
+<script src="http://primstudio.net/js/lightboxnews.js"></script>
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66344442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31954036 = new Ya.Metrika({
+                    id:31954036,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->
+</head>
+
+
+<body>
+
+<header>
+
+
+<img src="http://primstudio.net/images/interior-design-french-riviera-news.jpg" alt="Projektowanie wnętrz na Riwierze Francuskiej" 
+title="Projektowanie wnętrz na Riwierze Francuskiej" style="position: absolute; right:0px; top:60px; width:1000px;  min-width: 320px; height: 500px;" />
+ 
+<!--#include virtual="include/menupl.txt"-->
+
+<div id="flag">
+<div id="flagcont">
+<a href="http://primstudio.net/projektowanie-wnetrz/nowosci.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Nowości w świecie projektowania wnętrz" title="Nowości w świecie projektowania wnętrz" src="http://primstudio.net/images/flagpl.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/projektowanie-wnetrz/nowosci.shtml">PL</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/дизайн-интерьера/новости.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Новости в мире дизайна интерьера" title="Новости в мире дизайна интерьера" src="http://primstudio.net/images/flagru.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/дизайн-интерьера/новости.shtml">RU</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/conception-interieur/nouvelles.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Interior Design Nouvelles" title="Interior Design Nouvelles" src="http://primstudio.net/images/flagfr.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/conception-interieur/nouvelles.shtml">FR</a>
+</div>
+</a>
+
+<a href="http://primstudio.net/interior-design/news.shtml">  
+<div id="flagb">
+<div id="flagm">
+<img alt="Interior Design News" title="Interior Design News" src="http://primstudio.net/images/flagen.jpg"/>
+</div>
+<a id="flagt" href="http://primstudio.net/interior-design/news.shtml">EN</a>
+</div>
+</a>
+</div>	</div>
+
+ <div id="pagename">	
+<p id="firsthead">
+Nowosci</p>
+	</div>	
+<div id="icon">	</div>	
+
+
+ </header>
+ 
+
+
+
+ <main>
+ <div id="blokgray">
+ <div id="blok1">
+
+<p id="firstc" style="font-family:Century Gothic;">Zapraszamy do zapoznania się z najnowszymi wiadomościami w świecie projektowania wnętrz.
+PrimStudio docenia innowacje.</p>	
+
+
+
+
+
+ <div id="blok20">
+
+<div id="blok1b"> <img src="http://primstudio.net/images/news/targi-wyposazenia-wnetrz.jpg"> </div> 
+ 
+<div id="blok1a">
+<p id="firstc" style="font-family:Century Gothic;">TARGI WYPOSAŻENIA WNĘTRZ W POZNANIU</p><br>
+<p id="secondl">HOME DECOR umożliwia:<br>
+- Zapoznanie się z najnowszą ofertą marek z różnych stron świata, zamówienie oryginalnych produktów, zdobycie nowych inspiracji.<br>
+- Konferencje i szkolenia.<br>
+- Wśród wystawców są czołowe firmy działające w branży wystroju i wyposażenia wnętrz. 
+Na stoiskach prezentowano nowe kolekcje tekstyliów, dekoracji, ceramiki, szkła i oświetlenia. 
+</p>
+</div>
+
+
+
+
+  <div class="imageRow">
+  	<div class="set">
+  	  <div class="single first">
+  		  <a href="http://primstudio.net/images/news/hd1.jpg" rel="lightbox[hd]" title=""><img src="http://primstudio.net/images/news/hd1s.jpg" alt="" /></a>
+  		</div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/hd2.jpg" rel="lightbox[hd]" title="" ><img src="http://primstudio.net/images/news/hd2s.jpg" alt="" /></a>
+      </div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/hd3.jpg" rel="lightbox[hd]" title="" ><img src="http://primstudio.net/images/news/hd3s.jpg" alt="" /></a>
+      </div>
+
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/hd5.jpg" rel="lightbox[hd]" title=""><img src="http://primstudio.net/images/news/hd5s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/hd6.jpg" rel="lightbox[hd]" title=""><img src="http://primstudio.net/images/news/hd6s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/hd7.jpg" rel="lightbox[hd]" title=""><img src="http://primstudio.net/images/news/hd7s.jpg" alt="" /></a>
+      </div>
+	       <div class="single last">
+  		  <a href="http://primstudio.net/images/news/hd4.jpg" rel="lightbox[hd]" title=""></a>
+      </div>
+</div>
+  </div>
+
+</div>	
+	
+
+	
+ <div id="blok20">
+
+<div id="blok1b"> <img src="http://primstudio.net/images/news/polish-furniture-fair.jpg"> </div> 
+ 
+<div id="blok1a">
+<p id="firstc" style="font-family:Century Gothic;">TARGI MEBLI W POZNANIU</p><br>
+<p id="secondl"> Targi MEBLE POLSKA umożliwiają:<br>
+- Wspaniała prezentacja aktualnej oferty polskich i zagranicznych producentów mebli, obecnych trendów i nowych technologii.<br>
+- Największa na świecie prezentacja oferty polskiego przemysłu meblarskiego.<br>
+- Producenci mebli z prawie 50 krajów.
+</p>
+
+</div>
+  <div class="imageRow">
+  	<div class="set">
+  	  <div class="single first">
+  		  <a href="http://primstudio.net/images/news/mp1.jpg" rel="lightbox[mp]" title=""><img src="http://primstudio.net/images/news/mp1s.jpg" alt="" /></a>
+  		</div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/mp2.jpg" rel="lightbox[mp]" title="" ><img src="http://primstudio.net/images/news/mp2s.jpg" alt="" /></a>
+      </div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/mp3.jpg" rel="lightbox[mp]" title="" ><img src="http://primstudio.net/images/news/mp3s.jpg" alt="" /></a>
+      </div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/mp4.jpg" rel="lightbox[mp]" title="" ><img src="http://primstudio.net/images/news/mp4s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mp5.jpg" rel="lightbox[mp]" title=""><img src="http://primstudio.net/images/news/mp5s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mp6.jpg" rel="lightbox[mp]" title=""><img src="http://primstudio.net/images/news/mp6s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mp7.jpg" rel="lightbox[mp]" title=""></a>
+      </div>
+
+</div>
+  </div>
+
+</div>		
+	
+
+ <div id="blok20">
+
+<div id="blok1b">  <img src="http://primstudio.net/images/news/arena-design-exposition.jpg">  </div> 
+ 
+<div id="blok1a">
+<p id="firstc" style="font-family:Century Gothic;">TARGI ARENA DESIGN W POZNANIU</p><br>
+<p id="secondl">Arena DESIGN to wyjątkowe miejsce dla spotkań biznesowych producentów i projektantówa, także dla prezentacji najnowszych osiągnięć w dziedzinie projektowania wnętrz.<br>
+- Warsztaty i konferencje prowadzone przez ekspertów polskich i zagranicznych.<br>
+- Ekspozycja najciekawszych realizacji polskich i zagranicznych projektantów, architektów wnętrz, instytucji oraz biur projektowych.<br>
+- Spotkanie z wybitnymi osobowościami świata designu i architektury, wykłady i dyskusje.
+</p>	
+
+</div>
+  <div class="imageRow">
+  	<div class="set">
+  	  <div class="single first">
+  		  <a href="http://primstudio.net/images/news/ad1.jpg" rel="lightbox[ad]" title=""><img src="http://primstudio.net/images/news/ad1s.jpg" alt="" /></a>
+  		</div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/ad2.jpg" rel="lightbox[ad]" title="" ><img src="http://primstudio.net/images/news/ad2s.jpg" alt="" /></a>
+      </div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/ad3.jpg" rel="lightbox[ad]" title="" ><img src="http://primstudio.net/images/news/ad3s.jpg" alt="" /></a>
+      </div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/ad4.jpg" rel="lightbox[ad]" title="" ><img src="http://primstudio.net/images/news/ad4s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/ad5.jpg" rel="lightbox[ad]" title=""><img src="http://primstudio.net/images/news/ad5s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/ad6.jpg" rel="lightbox[ad]" title=""><img src="http://primstudio.net/images/news/ad6s.jpg" alt="" /></a>
+      </div>
+
+
+</div>
+  </div>
+
+</div>		
+	
+
+	
+ <div id="blok20">
+
+<div id="blok1b">  <img src="http://primstudio.net/images/news/furniture-fair-in-milan.jpg">  </div> 
+ 
+<div id="blok1a">
+<p id="firstc" style="font-family:Century Gothic;">SALONE DEL MOBILE. MILANO</p><br>
+<p id="secondl">
+12/17 kwietnia 2016. Edycja N 55  międzynarodowego znanego wydarzenia dla sektora wyposażenia i projektowania wnętrz.
+Wizytówką którego jest zawsze mieszanie biznesu z kulturą, kształtowanie historię projektowania i aranżacje wczoraj, dziś, jutro.
+Światowa platforma produktów i usług najwyższej klasy, z naciskiem na innowacje.
+</p>
+
+</div>
+  <div class="imageRow">
+  	<div class="set">
+  	  <div class="single first">
+  		  <a href="http://primstudio.net/images/news/mm1.jpg" rel="lightbox[mm]" title=""><img src="http://primstudio.net/images/news/mm1s.jpg" alt="" /></a>
+  		</div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/mm2.jpg" rel="lightbox[mm]" title="" ><img src="http://primstudio.net/images/news/mm2s.jpg" alt="" /></a>
+      </div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/mm3.jpg" rel="lightbox[mm]" title="" ><img src="http://primstudio.net/images/news/mm3s.jpg" alt="" /></a>
+      </div>
+      <div class="single">
+  		  <a href="http://primstudio.net/images/news/mm4.jpg" rel="lightbox[mm]" title="" ><img src="http://primstudio.net/images/news/mm4s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm5.jpg" rel="lightbox[mm]" title=""><img src="http://primstudio.net/images/news/mm5s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm6.jpg" rel="lightbox[mm]" title=""><img src="http://primstudio.net/images/news/mm6s.jpg" alt="" /></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm7.jpg" rel="lightbox[mm]" title=""></a>
+      </div>
+	  <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm8.jpg" rel="lightbox[mm]" title=""></a>
+      </div>
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm9.jpg" rel="lightbox[mm]" title=""></a>
+      </div>
+	  <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm10.jpg" rel="lightbox[mm]" title=""></a>
+      </div>	  
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm11.jpg" rel="lightbox[mm]" title=""></a>
+      </div>
+	  <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm12.jpg" rel="lightbox[mm]" title=""></a>
+      </div>	  
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm13.jpg" rel="lightbox[mm]" title=""></a>
+      </div>
+	  <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm14.jpg" rel="lightbox[mm]" title=""></a>
+      </div>	  
+      <div class="single last">
+  		  <a href="http://primstudio.net/images/news/mm15.jpg" rel="lightbox[mm]" title=""></a>
+      </div>
+
+</div>
+  </div>
+
+</div>		
+	
+
+
+
+<div id="blok4">
+<br><br><br>
+<p id="firstc" style="font-family:Century Gothic;">MASZ PROJEKT DO PRZEDYSKUTOWANIA?<br>
+JESTEŚMY TU ABY UDZIELIĆ PAŃSTWU POMOCY</p> <br>
+ <br><br>
+</div>
+</div>
+
+</div>		
+
+
+</main>
+
+
+<!--#include virtual="include/footerpl.txt"-->	
+</body>
+</html>

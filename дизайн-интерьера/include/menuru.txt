@@ -1,0 +1,105 @@
+<div class="description">
+		<body onload="allClose()">
+		<div id="menu_left">
+		<ul id="menu">
+ <li><a href="#" onclick="openMenu(this);return false"><img src="images/menu.jpg"   alt="меню"  title="открыть/закрыть меню"/></a>
+    <ul id="nav_left">
+	 <div id="menuback" >
+					<li><a href="дизайн-интерьера-французская-ривьера.shtml">Главная</a></li>
+					
+                        <li><a href="#" onclick="openMenu(this);return false">Информация...</a>
+                            <ul>
+                                <li><a href="русский-дизайнер-интерьера-франция.shtml">Почему PrimStudio</a></li>
+                                <li><a href="ницца-дизайн-интерьера.shtml">Миссия</a></li>
+                                <li><a href="этапы.shtml">Этапы проекта</a></li>
+								<li><a href="стили.shtml">Стили в интерьере</a></li>
+                                <li><a href="цена.shtml">Цена</a></li>
+                                </ul> 
+                               
+                        </li>                                              
+     
+                        <li><a href="#" onclick="openMenu(this);return false" >Дизайн...</a>
+                            <ul>
+                                <li ><a href="монако-дизайн-интерьера.shtml" >Дизайн интерьера</a></li>
+                                <li><a href="мебель.shtml">Дизайн мебели</a></li>
+                                <li><a href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн</a></li>    
+							    <li><a href="портфолио.shtml">Портфолио</a></li>
+                            </ul>
+                        </li>
+                        
+					<li><a href="#" onclick="openMenu(this);return false" >Меблировка...</a>
+						  <ul>
+						        <li><a href="итальянская-элитная-мебель.shtml">Элитная мебель</a>	</li>
+                                <li><a href="картины-скульптура.shtml">Живопись &amp; Скульптура</a></li>    
+							    <li><a href="освещение.shtml">Освещение</a></li>
+					       </ul>
+					  </li>
+						
+                        <li><a href="канны-дизайнер-интерьера.shtml">Контакт</a></li>
+			
+	
+
+</div>
+   </ul>
+ </li>
+</ul>
+</div>
+ </body>	
+
+  <style>
+   li {
+    list-style-type: none; /* Убираем маркеры */
+
+  </style>
+	 <script type="text/javascript">
+	 function openMenu(node){
+	var subMenu = node.parentNode.getElementsByTagName("ul")[0];
+	subMenu.style.display == "none" ? subMenu.style.display = "block" : subMenu.style.display = "none";
+}
+function allClose(){
+	var list = document.getElementById("menu").getElementsByTagName("ul");
+	for(var i=0;i<list.length;i++){
+		list[i].style.display = "none";
+	}
+} 
+	 </script>
+			
+			<div id="menu_div">
+            <div id="navigation">
+                <div id="menu">
+                    <ul id="nav">
+<!--#include virtual="include/menuru.txt"-->	
+					 <li><a href="дизайн-интерьера-французская-ривьера.shtml">Главная</a></li>
+                     <li><a href="#">Информация</a>
+                            <ul>
+                                <li><a href="русский-дизайнер-интерьера-франция.shtml">Почему PrimStudio</a></li>
+                                <li><a href="ницца-дизайн-интерьера.shtml">Миссия</a></li>
+                                <li><a href="этапы.shtml">Этапы проекта</a></li>
+								<li><a href="стили.shtml">Стили в интерьере</a></li>
+                                <li><a href="цена.shtml">Цена</a></li>
+                                </ul> 
+                        </li>                                              
+                        <li><a href="#">Дизайн</a>
+                            <ul>
+                                <li ><a href="монако-дизайн-интерьера.shtml" >Дизайн интерьера</a></li>
+                                <li><a href="мебель.shtml">Дизайн мебели</a></li>
+                                <li><a href="ландшафтный-дизайн-французская-ривьера.shtml">Ландшафтный дизайн</a></li>    
+							    <li><a href="портфолио.shtml">Портфолио</a></li>
+                            </ul>
+                        </li>
+					<li><a href="#">Меблировка</a>
+						  <ul>
+						        <li><a href="итальянская-элитная-мебель.shtml">Элитная мебель</a>	</li>
+                                <li><a href="картины-скульптура.shtml">Живопись &amp; Скульптура</a></li>    
+							    <li><a href="освещение.shtml">Освещение</a></li>
+					       </ul>
+					  </li>
+                      <li><a href="канны-дизайнер-интерьера.shtml">Контакт</a></li>
+	
+                    </ul>
+ 
+					  </div><!-- #menu КОНЕЦ-->	
+ </div>
+ </div><!-- #menu_div КОНЕЦ--> 
+
+</div>

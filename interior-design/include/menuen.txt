@@ -1,0 +1,115 @@
+<div class="description">
+		<body onload="allClose()">
+		<div id="menu_left">
+		<ul id="menu">
+  <li><a href="#" onclick="openMenu(this);return false"><img src="images/menu.jpg" alt="menu"  title="open/close the menu" /></a>
+
+    <ul id="nav_left">
+	 <div id="menuback" >
+	
+							<li><a href="interior-design-french-riviera-ru.shtml">Home </a></li>
+					
+                        <li><a href="#" onclick="openMenu(this);return false">About ...</a>
+                            <ul>
+                                <li><a href="russian-interior-designer-france.shtml">Why PrimStudio</a></li>
+                                <li><a href="nice-interior-design-ru.shtml">Mission</a></li>
+                                <li><a href="steps.shtml">Project steps</a></li>
+								<li><a href="stylesen.shtml">The main styles</a></li>
+                                <li><a href="price.shtml">Price</a></li>
+                             </ul>       
+                        </li>                                              
+  
+                        
+                        <li><a href="#" onclick="openMenu(this);return false" >Design ...</a>
+                            <ul>
+                                <li ><a href="monaco-interior-design-ru.shtml">Interior design</a></li>
+                                <li><a href="furniture.shtml">Furniture design</a></li>
+                                <li><a href="landscape-design-french-riviera-ru.shtml">Garden design</a></li>    
+							    <li><a href="portfolioen.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                        
+                       
+					<li><a href="#" onclick="openMenu(this);return false" >Furnishings ...</a>
+						  <ul>
+						        <li><a href="italian-luxury-furniture-france-ru.shtml ">Luxury furniture</a>	</li>
+                                <li><a href="painting.shtml">Painting &amp; Sculpture</a></li>    
+							    <li><a href="lighting.shtml">Lighting</a></li>
+					       </ul>
+					  </li>
+						
+						
+                        <li><a href="cannes-interior-designer-ru.shtml">Contact</a></li>
+		
+</div>
+   </ul>
+ </li>
+</ul>
+</div>
+ </body>	
+
+  <style>
+   li {
+    list-style-type: none; /* Убираем маркеры */
+
+  </style>
+	 <script type="text/javascript">
+	 function openMenu(node){
+	var subMenu = node.parentNode.getElementsByTagName("ul")[0];
+	subMenu.style.display == "none" ? subMenu.style.display = "block" : subMenu.style.display = "none";
+}
+function allClose(){
+	var list = document.getElementById("menu").getElementsByTagName("ul");
+	for(var i=0;i<list.length;i++){
+		list[i].style.display = "none";
+	}
+}
+
+	 
+	 </script>
+			
+			<div id="menu_div">
+            <div id="navigation">
+                <div id="menu">
+                    <ul id="nav">
+					
+						<li><a href=" interior-design-french-riviera-ru.shtml">Home </a></li>
+					
+                        <li><a href="#">About</a>
+                            <ul>
+                                <li><a href="russian-interior-designer-france.shtml">Why PrimStudio</a></li>
+                                <li><a href="nice-interior-design-ru.shtml">Mission</a></li>
+                                <li><a href="steps.shtml">Project steps</a></li>
+								<li><a href="stylesen.shtml">The main styles</a></li>
+                                <li><a href="price.shtml">Price</a></li>
+                             </ul>       
+                        </li>                                              
+  
+                        
+                        <li><a href="#">Design</a>
+                            <ul>
+                                <li ><a href="monaco-interior-design-ru.shtml">Interior design</a></li>
+                                <li><a href="furniture.shtml">Furniture design</a></li>
+                                <li><a href="landscape-design-french-riviera-ru.shtml">Garden design</a></li>    
+							    <li><a href="interior-design/portfolioen.shtml">Portfolio</a></li>
+                            </ul>
+                        </li>
+                        
+                       
+					<li><a href="#">Furnishings</a>
+						  <ul>
+						        <li><a href="italian-luxury-furniture-france-ru.shtml ">Luxury furniture</a>	</li>
+                                <li><a href="painting.shtml">Painting &amp; Sculpture</a></li>    
+							    <li><a href="lighting.shtml">Lighting</a></li>
+					       </ul>
+					  </li>
+						
+						
+                        <li><a href="cannes-interior-designer-ru.shtml">Contact</a></li>
+                    </ul>
+ 
+					  </div><!-- #menu КОНЕЦ-->	
+ </div>
+ </div><!-- #menu_div КОНЕЦ--> 
+
+</div>
